@@ -13,7 +13,7 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 
 2. En el menu de la izquieda Avanzado.
 
-![image](https://user-images.githubusercontent.com/54257745/112393666-bcf84800-8cfb-11eb-98e8-3591a1ea84c2.png)
+![image](https://user-images.githubusercontent.com/54257745/112394077-63444d80-8cfc-11eb-895a-7483bb82eee3.png)
 
 3. En el apartado **"Listas de filtros"** le das al boton que pone **"Añadir lista de filtros a través de una dirección URL"**.
 
