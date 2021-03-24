@@ -10,4 +10,4 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 1. Entra en las opciones de la extencion
 2. En el menu de la izquieda Avanzado
 3. En el apartado "Listas de filtros" le das al boton que pone "Añadir lista de filtros a través de una dirección URL"
-4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado y para poder acceder al archivo directamente le tienes que dar al boton superior que pone "Raw".
+4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado "Adblock_list.txt" y dentro de este le das botón superior que pone "Raw", Una vez echo eso copias el enlace de la pagina y lo copias en donde el paso 3.
