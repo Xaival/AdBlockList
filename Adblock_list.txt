@@ -182,7 +182,6 @@
 ||www.fcportables.com/wp-content/plugins/deblocker/css/deblocker.min.css
 ||www.apotoxinfansub.com/js/jsvideosonline.js
 ||www.fcportables.com/wp-content/plugins/deblocker/js/deblocker.min.js
-www.3djuegos.com##div[data-label-text="AD"]
 ##.adv-aside
 ##.ads
 ###ads
@@ -213,6 +212,7 @@ www.3djuegos.com##div[data-label-text="AD"]
 ###cookieChoiceInfo
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
+pastebin.com###__vliadb83, #__vliadb83-bg
 1337x.to###M90304ScriptRootC221935
 1337x.to###lp-container
 20minutos.es##div[data-dynload]
@@ -792,6 +792,7 @@ wankoz.com##.user-comments
 watch2gether.com##.w2g-square-ad
 wikifeet.com##div[data-endpoint="//trends.revcontent.com"]
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
+www.3djuegos.com##div[data-label-text="AD"]
 www.adslzone.net##p[style="display:inline-block; width:100%;"]
 www.apotoxinfansub.com##.alert-danger
 www.crehana.com##div[data-test-id="ChatWidgetWindow"]
