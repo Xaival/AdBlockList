@@ -212,7 +212,6 @@
 ###cookieChoiceInfo
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
-pastebin.com###__vliadb83, #__vliadb83-bg
 1337x.to###M90304ScriptRootC221935
 1337x.to###lp-container
 20minutos.es##div[data-dynload]
@@ -399,7 +398,6 @@ followporno.com##.p300-bns-bl
 followporno.com##.p300-video-rt
 followporno.com###cb-banner
 forums.unrealengine.com###onetrust-banner-sdk
-freegames.codes##.col-xl-4:nth-child(3),.col-xl-4:nth-child(5),.col-xl-4:nth-child(7),.col-xl-4:nth-child(11)
 freesexvideos.su##.camitems
 freesexvideos.su##.mlppromo
 freesexvideos.su##.mult
@@ -606,6 +604,7 @@ p.clk.ink###google-captcha-popup-54673
 packsmega.info##.widget_custom_html
 palabrasque.com##.cc-grower
 pasfox.com###tbl-next-up
+pastebin.com###__vliadb83, #__vliadb83-bg
 peliculas24.me##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: 10px; bottom: auto; right: 10px; left: auto;"]
 peliculas24.me##iframe[width="450px"]
 peliculas24.me##.block-social
