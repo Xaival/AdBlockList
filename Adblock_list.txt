@@ -70,6 +70,7 @@
 ||clk.rtpdn11.com
 ||config.seedtag.com
 ||d261u4g5nqprix.cloudfront.net
+||tontent.pouvideo.cc
 ||d2d8qsxiai9qwj.cloudfront.net
 ||d2uy8iq3fi50kh.cloudfront.net
 ||d38itq6vdv6gr9.cloudfront.net
