@@ -218,6 +218,7 @@
 20minutos.es##div[data-dynload]
 20minutos.es##div[data-google-query-id]
 20minutos.es##.axds-lane
+adultdeepfakes.com##div[data-banner-placement="under_video"]
 20minutos.es##.outbrain-sidebar
 4everpaste.blogspot.com##.widget-content
 4shared.com##div[data-ga="rmvads.1"]
