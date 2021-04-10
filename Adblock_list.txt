@@ -232,6 +232,7 @@ anadoludabugun.com.tr##.banner
 anadoludabugun.com.tr##div[data-adsbygoogle-status]
 anadoludabugun.com.tr###prestitial_banner
 analdin.com##.block-video .table
+adultdeepfakes.com##.container .content .block-video .video__sidebar
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
