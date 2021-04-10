@@ -335,6 +335,7 @@ dredown.com##.check_notify
 dredown.com##iframe
 dredown.com##.mgbox
 driverhub.uptodown.com##.banner-download
+pornhub.com###videoSearchResult .sniperModeEngaged
 driverhub.uptodown.com##.gad
 driverhub.uptodown.com###content_ad_2
 driverhub.uptodown.com###content_ad_bottom
