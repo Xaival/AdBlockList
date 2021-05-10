@@ -218,7 +218,6 @@
 20minutos.es##div[data-dynload]
 20minutos.es##div[data-google-query-id]
 20minutos.es##.axds-lane
-adultdeepfakes.com##div[data-banner-placement="under_video"]
 20minutos.es##.outbrain-sidebar
 4everpaste.blogspot.com##.widget-content
 4shared.com##div[data-ga="rmvads.1"]
@@ -227,13 +226,14 @@ adultdeepfakes.com##div[data-banner-placement="under_video"]
 4shared.com##div[style="position: fixed; visibility: visible; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 90;"]
 9gag.com###qc-cmp2-container
 abc.es, sevilla.abc.es##.publi-articulo
+adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##.p-2
+adultdeepfakes.com##div[data-banner-placement="under_video"]
 adultdeepfakes.com##div[data-placement="under_video"]
 anadoludabugun.com.tr##.banner
 anadoludabugun.com.tr##div[data-adsbygoogle-status]
 anadoludabugun.com.tr###prestitial_banner
 analdin.com##.block-video .table
-adultdeepfakes.com##.container .content .block-video .video__sidebar
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
@@ -335,7 +335,6 @@ dredown.com##.check_notify
 dredown.com##iframe
 dredown.com##.mgbox
 driverhub.uptodown.com##.banner-download
-pornhub.com###videoSearchResult .sniperModeEngaged
 driverhub.uptodown.com##.gad
 driverhub.uptodown.com###content_ad_2
 driverhub.uptodown.com###content_ad_bottom
@@ -647,6 +646,7 @@ pornhub.com##.js-underplayerAd
 pornhub.com##.video-wrapper .clear:nth-of-type(3)
 pornhub.com##.logInHotContainer
 pornhub.com##li[class="sniperModeEngaged alpha"]
+pornhub.com###videoSearchResult .sniperModeEngaged
 pornhub.com###vpContentContainer .clearfix div
 pornhub.com##.nf-videos .sectionWrapper .sectionWrapper
 pornhub.com##.abAlertShown
@@ -832,7 +832,6 @@ www.youtube.com##ytd-display-ad-renderer
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
 www3.animeflv.net##.Sidebar > br
-www5.jkanime.video##html > iframe
 www70.zippyshare.com###lrbox .center
 www70.zippyshare.com##.center_ad
 www70.zippyshare.com###qrCode
