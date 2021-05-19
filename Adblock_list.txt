@@ -605,6 +605,7 @@ ouo.press##.it-client
 outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
 p.clk.ink###google-captcha-popup-54673
 packsmega.info##.widget_custom_html
+paiza.io##div[ng-show="showAmazonAd"]
 palabrasque.com##.cc-grower
 pasfox.com###tbl-next-up
 pastebin.com###__vliadb83, #__vliadb83-bg
