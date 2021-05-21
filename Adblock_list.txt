@@ -236,6 +236,7 @@ anadoludabugun.com.tr###prestitial_banner
 analdin.com##.block-video .table
 analdin.com##.footer-ads
 analdin.com##.na
+pelisplus.so##.adsuppervideo
 analdin.com###asg-video-0
 animefenix.com##.is-block
 animeflv.ac##iframe[data-bjppopads-handled="1"]
@@ -574,7 +575,6 @@ mrdeepfakes.com##div[style="position: absolute; left: 0px; top: 0px; bottom: 0px
 mshare.xyz##.ads_336
 muycerdas.xxx##.cntcol aside
 muycerdas.xxx###cookiescript_injected
-www.programiz.com##.compiler-header-ad
 mypornogram.com###over
 mypornogram.com##.native-block
 mypornogram.com##.p300-bns-bl
@@ -822,6 +822,7 @@ www.perfectgirls.net##.adv_block
 www.photopea.com###onetrust-consent-sdk
 www.pornhd.com##section aside[class="hidden-xs hidden-sm next-to-video"]
 www.pornhd.com##.video-player-overlay
+www.programiz.com##.compiler-header-ad
 www.springhole.net###ez-cookie-dialog-wrapper
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
 www.uiporn.com##.bottom-b-s
