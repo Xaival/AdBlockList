@@ -181,6 +181,7 @@
 ||www.pornhub.com/_xa/ads
 ||pasfox.com/js/buscador/jquery.js
 ||www.fcportables.com/wp-content/plugins/deblocker/css/deblocker.min.css
+||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||www.apotoxinfansub.com/js/jsvideosonline.js
 ||www.fcportables.com/wp-content/plugins/deblocker/js/deblocker.min.js
 ##.adv-aside
@@ -236,7 +237,6 @@ anadoludabugun.com.tr###prestitial_banner
 analdin.com##.block-video .table
 analdin.com##.footer-ads
 analdin.com##.na
-pelisplus.so##.adsuppervideo
 analdin.com###asg-video-0
 animefenix.com##.is-block
 animeflv.ac##iframe[data-bjppopads-handled="1"]
@@ -621,6 +621,7 @@ pelishouse.com##div[cfapps-selector="#playcontainer"]
 pelisplus.me##.adx
 pelisplus.me##.movie-warning
 pelisplus.me##.main-site
+pelisplus.so##.adsuppervideo
 pelisplus.video##iframe[style="width: 100% !important; height: 190px !important; opacity: 1 !important; max-width: 420px !important; border: none !important; position: fixed !important; display: block !important; z-index: 2147483647 !important; left: auto !important; right: 0px !important; top: 15px !important; bottom: auto !important;"]
 pinflix.com##.overlay-content
 pivigames.blog##.code-block-5
