@@ -7,7 +7,7 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 
 ### Para agregar esta lista de filtros a tu Adblock Plus
 
-1. Entra en las opciones de la extencion.
+1. Entra en las opciones de la extensión.
 
 ![image](https://user-images.githubusercontent.com/54257745/112393499-7571bc00-8cfb-11eb-86ba-9112649aac1a.png)
 
