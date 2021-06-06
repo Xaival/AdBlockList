@@ -11,7 +11,7 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 
 ![image](https://user-images.githubusercontent.com/54257745/112393499-7571bc00-8cfb-11eb-86ba-9112649aac1a.png)
 
-2. En el menu de la izquieda Avanzado.
+2. En el menú de la izquierda Avanzado.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394077-63444d80-8cfc-11eb-895a-7483bb82eee3.png)
 
@@ -19,10 +19,10 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 
 ![image](https://user-images.githubusercontent.com/54257745/112393831-f8931200-8cfb-11eb-8206-3650504c7126.png)
 
-4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado **"Adblock_list.txt"** y dentro de este le das botón superior que pone **"Raw"**, una vez echo eso copias el enlace de la pagina y lo copias donde el paso 3.
+4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado **"Adblock_list.txt"** y dentro de este le das botón superior que pone **"Raw"**, una vez hecho eso copias el enlace de la página y lo copias donde el paso 3.
 
 ![image](https://user-images.githubusercontent.com/54257745/112393902-16f90d80-8cfc-11eb-86bf-14eb6640d025.png)
 
-5. Una vez terminado te aparecera en la lista.
+5. Una vez terminado te aparecerá en la lista.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394010-427bf800-8cfc-11eb-9bcd-687abbef260e.png)
