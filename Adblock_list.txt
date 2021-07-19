@@ -808,6 +808,8 @@ www.elamigos-games.com##.chatbro_container
 www.elmundo.es#@##didomi-host
 www.eroticbeauties.net###chatWindow
 www.facebook.com##a[aria-label="Enlace del anunciante"]
+www.fcportables.com###chp_ads_blocker-overlay
+www.fcportables.com###chp_ads_blocker-modal
 www.gamesofdesire.com##.top_banner
 www.gamesofdesire.com##.vert_banner
 www.gotporn.com##.external-floater-ad-wrap
@@ -825,6 +827,7 @@ www.pornhd.com##section aside[class="hidden-xs hidden-sm next-to-video"]
 www.pornhd.com##.video-player-overlay
 www.programiz.com##.compiler-header-ad
 www.springhole.net###ez-cookie-dialog-wrapper
+www.tecnotutoshd.net###arlinablock
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
 www.uiporn.com##.bottom-b-s
 www.uiporn.com##.video-right
@@ -878,7 +881,6 @@ youporn.com##footer div:first-of-type
 youporn.com##.grid-sub-row-2
 youporn.com##.e8-column
 youporn.com##.warning_block
-www.tecnotutoshd.net###arlinablock
 youporn.com###js_euCookieModal
 youtube.com###masthead-ad
 youtube.com##ytd-promoted-sparkles-text-search-renderer
