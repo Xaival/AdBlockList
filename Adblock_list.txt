@@ -299,6 +299,7 @@ correodelsur.com###fancesaPubli
 cpmlink.net###contact
 cpmlink.net##div[style="display: block !important;"]
 cumlouder.com##.aan-bottom
+seriesflv.me##.adx
 cumlouder.com##.aan-promo
 danimados.com##.fixed-sidebar-blank
 danimados.com##.mCS-autoHide
