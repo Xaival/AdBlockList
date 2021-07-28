@@ -207,6 +207,7 @@
 ##.content-kuss
 ##.sponsor
 ##.widget_text
+repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
 ##div[style="overflow: visible; visibility: visible;"]
 ##.iRx9_wrt
 ###pb_template
