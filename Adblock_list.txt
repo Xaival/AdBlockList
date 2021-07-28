@@ -795,6 +795,7 @@ www.3djuegos.com##div[data-label-text="AD"]
 www.adslzone.net##p[style="display:inline-block; width:100%;"]
 www.apotoxinfansub.com##.alert-danger
 www.crehana.com##div[data-test-id="ChatWidgetWindow"]
+www.crunchyroll.com###template_body #showmedia .right
 www.elamigos-games.com##.content_store
 www.elamigos-games.com##.alert-warning
 www.elamigos-games.com##.chatbro_container
