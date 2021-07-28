@@ -70,7 +70,6 @@
 ||clk.rtpdn11.com
 ||config.seedtag.com
 ||d261u4g5nqprix.cloudfront.net
-||tontent.pouvideo.cc
 ||d2d8qsxiai9qwj.cloudfront.net
 ||d2uy8iq3fi50kh.cloudfront.net
 ||d38itq6vdv6gr9.cloudfront.net
@@ -156,6 +155,7 @@
 ||tagbucket.cc
 ||tempest.services.disqus.com/ads-iframe
 ||theweblocker.net
+||tontent.pouvideo.cc
 ||tontent.powv1deo.cc
 ||tools.lifeselector.com
 ||track.gpsecureads.com
@@ -200,9 +200,13 @@
 ##.pause-video .mask
 ##.pause-video .pause-block
 ##.eww
+##tbl-next-up
 ###ni-overlay
 ##.adtrue-div
+##.block-video .table
 ##.content-kuss
+##.sponsor
+##.widget_text
 ##div[style="overflow: visible; visibility: visible;"]
 ##.iRx9_wrt
 ###pb_template
@@ -214,6 +218,7 @@
 ###cookieChoiceInfo
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
+##.user-comments
 1337x.to###M90304ScriptRootC221935
 1337x.to###lp-container
 20minutos.es##div[data-dynload]
@@ -234,7 +239,6 @@ adultdeepfakes.com##div[data-placement="under_video"]
 anadoludabugun.com.tr##.banner
 anadoludabugun.com.tr##div[data-adsbygoogle-status]
 anadoludabugun.com.tr###prestitial_banner
-analdin.com##.block-video .table
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
@@ -260,7 +264,6 @@ bbc.com###cookiePrompt
 bcvc.live##.adArea
 bcvc.live###pnsIPPMainContainer
 blizzboygames.net##div [style="float: none; margin:20px 0 20px 0; text-align:center;"]
-blizzboygames.net##.widget_text
 blizzboygames.net##.vc_col-sm-12
 blizzboygames.net##.cc-window
 bravotube.net##.brazzers
@@ -298,8 +301,10 @@ correodelsur.com##.col-md-12.col-lg-12.no-padding
 correodelsur.com###fancesaPubli
 cpmlink.net###contact
 cpmlink.net##div[style="display: block !important;"]
+crunchyroll.com##.cr-expo-banner
+crunchyroll.com##.message-container.cf
+crunchyroll.com##.game-banner-wrapper, .showmedia-submenu.white-wrapper.cf.container-shadow.small-margin-bottom
 cumlouder.com##.aan-bottom
-seriesflv.me##.adx
 cumlouder.com##.aan-promo
 danimados.com##.fixed-sidebar-blank
 danimados.com##.mCS-autoHide
@@ -361,9 +366,7 @@ elespanol.com##.inImage
 elespanol.com##div[data-device="desktop"]
 elespanol.com##.sm-preroll-container
 elespanol.com###article__footer-nav
-elfarandi.com##.widget_text
 elfarandi.com###sticky-pbs
-elfarandi.com###tbl-next-up
 eljoker18.blogspot.com###sidebar-wrapper .Image
 eljoker18.blogspot.com###sidebar-wrapper .HTML
 emojipedia.org##.ad-sidebar
@@ -482,7 +485,6 @@ ifttt.com##.styles__popup-container__1sHZX
 igg-games.com###widget-advads_ad_widget-3
 igg-games.com###widget-advads_ad_widget-8
 iloveimg.com###toast-container
-imagetowebpcyborg.com##.sponsor
 img2go.com##div[role="alert"]
 infojobs.net##.ij-AdBanner-top
 infojobs.net##.ij-AdBanner-aside
@@ -507,8 +509,6 @@ juegosfullparapc.com##div[style^="z-index: 2147483647; position: fixed; width: 1
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
 k2s.cc##.label-360p
-katestube.com##.user-comments
-keekass.com##.block-video .table
 kennysoft.blogspot.com##.skin-right
 kennysoft.blogspot.com###HTML5
 kennysoft.blogspot.com##.ats-light
@@ -569,9 +569,7 @@ movies.hentaistream.com##.othercontent
 movies.hentaistream.com##.featured
 movies.hentaistream.com##.featuredimgs
 movies.hentaistream.com##div[name="adx_ad668"]
-mrdeepfakes.com##.block-video .table
 mrdeepfakes.com##.mn-related-container
-mrdeepfakes.com##.sponsor
 mrdeepfakes.com##div[style="position: absolute; left: 0px; top: 0px; bottom: 0px; right: 0px; overflow: hidden; background: transparent; display: block;"]
 mshare.xyz##.ads_336
 muycerdas.xxx##.cntcol aside
@@ -609,7 +607,6 @@ p.clk.ink###google-captcha-popup-54673
 packsmega.info##.widget_custom_html
 paiza.io##div[ng-show="showAmazonAd"]
 palabrasque.com##.cc-grower
-pasfox.com###tbl-next-up
 pastebin.com###__vliadb83, #__vliadb83-bg
 peliculas24.me##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: 10px; bottom: auto; right: 10px; left: auto;"]
 peliculas24.me##iframe[width="450px"]
@@ -633,7 +630,6 @@ pivigames.blog###cmpbox
 playforceone.com###cookiePopupSnippet
 playpaste.com##.mb-4
 playpaste.com##.mt-4
-playporngames.com##.widget_text
 playsexgames.xxx##.widget
 poringa.net##.hook
 poringa.net##.var-message
@@ -642,7 +638,6 @@ porngem.com##.top-sponsor
 porngem.com##.bottom-b-s
 porngem.com###PG-Nat2
 porngem.com##.video-right
-porngem.com##.sponsor
 porngem.com##.fp-player iframe
 pornhub.com##body div cddei
 pornhub.com###welcome
@@ -692,7 +687,6 @@ revistagq.com##div[data-test-id="AdBannerWrapper"]
 revistagq.com###onetrust-consent-sdk
 salamanca24horas.com##.front_widget_20bottom
 salamanca24horas.com###layer_418801
-salamanca24horas.com###tbl-next-up
 salamanca24horas.com###taboola-below-article-thumbnails
 savefrom.net##.h10__install_btn_box
 see.xxx##.vda-item
@@ -700,6 +694,7 @@ seriescube.pw###media_image-3
 seriescube.pw##.dt_social_single
 seriescube.pw##.dtw_socialbox
 seriesflix.io###comments
+seriesflv.me##.adx
 seriesmanta.in###ad
 seriesmetro.com###text-2
 sextubeweb.com##.ave-pl
@@ -712,7 +707,6 @@ sheshaft.com###video_comments_video_comments
 shon.xyz, shink.me##iframe[scrolling="no"]
 shorten.sh##.banner-inner
 shorten.sh###cookie-pop
-sleazyneasy.com##.user-comments
 smashmexico.com.mx##.teads-inread
 spankwire.com###js-react-header-box
 spankwire.com##.sc-iAyFgw
@@ -783,7 +777,6 @@ vidoza.net##.asg-interstitial
 vidoza.net##.in-block
 vidoza.net###videotop
 vidoza.net##.prevent-first-click
-vikiporn.com##.user-comments
 virtualpiano.net###cc-banner-wrap
 vk.com###cookies_policy_wrap
 voglioporno.com###footer-iframe
@@ -795,7 +788,6 @@ w2g.tv##.w2g-center-plus
 w3schools.com###sncmp-container
 w3schools.com#$##snigel-cmp-framework
 w3toys.com##.sumome-smartbar-popup
-wankoz.com##.user-comments
 watch2gether.com##.w2g-square-ad
 wikifeet.com##div[data-endpoint="//trends.revcontent.com"]
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
@@ -809,8 +801,8 @@ www.elamigos-games.com##.chatbro_container
 www.elmundo.es#@##didomi-host
 www.eroticbeauties.net###chatWindow
 www.facebook.com##a[aria-label="Enlace del anunciante"]
-www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
+www.fcportables.com###chp_ads_blocker-overlay
 www.gamesofdesire.com##.top_banner
 www.gamesofdesire.com##.vert_banner
 www.gotporn.com##.external-floater-ad-wrap
