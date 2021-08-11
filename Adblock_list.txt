@@ -207,7 +207,6 @@
 ##.content-kuss
 ##.sponsor
 ##.widget_text
-repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
 ##div[style="overflow: visible; visibility: visible;"]
 ##.iRx9_wrt
 ###pb_template
@@ -235,6 +234,7 @@ repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scr
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##.p-2
+web.wallapop.com##ngb-modal-backdrop, ngb-modal-window
 adultdeepfakes.com##div[data-banner-placement="under_video"]
 adultdeepfakes.com##div[data-placement="under_video"]
 anadoludabugun.com.tr##.banner
@@ -684,6 +684,7 @@ repelis.io##.K3m7L
 repelis.io##._2ahv0
 repelis.io##._2wa7P
 repelis24.is##.cobe
+repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
 revistagq.com##div[data-test-id="AdBannerWrapper"]
 revistagq.com###onetrust-consent-sdk
 salamanca24horas.com##.front_widget_20bottom
