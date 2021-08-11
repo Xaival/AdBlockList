@@ -19,7 +19,7 @@ Extensión [Adblock Plus](https://adblockplus.org/) para Google Chrome
 
 ![image](https://user-images.githubusercontent.com/54257745/112393831-f8931200-8cfb-11eb-8206-3650504c7126.png)
 
-4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado **"Adblock_list.txt"** y dentro de este le das botón superior que pone **"Raw"**, una vez hecho eso copias el enlace de la página y lo copias donde el paso 3.
+4. Ahi pegas este [enlace](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) o puedes ir al documento de este repositorio llamado **"Adblock_list.txt"** y dentro de este le das botón superior que pone **"Raw"**, una vez hecho eso copias el enlace de la página y lo copias.
 
 ![image](https://user-images.githubusercontent.com/54257745/112393902-16f90d80-8cfc-11eb-86bf-14eb6640d025.png)
 
