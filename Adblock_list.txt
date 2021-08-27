@@ -641,7 +641,6 @@ porngem.com##.video-right
 porngem.com##.fp-player iframe
 pornhub.com##body div cddei
 pornhub.com###welcome
-www.facebook.com##div[data-pagelet="RightRail"] > div > span
 pornhub.com##.js-underplayerAd
 pornhub.com##.video-wrapper .clear:nth-of-type(3)
 pornhub.com##.logInHotContainer
@@ -791,7 +790,6 @@ w3schools.com###sncmp-container
 w3schools.com#$##snigel-cmp-framework
 w3toys.com##.sumome-smartbar-popup
 watch2gether.com##.w2g-square-ad
-web.wallapop.com##ngb-modal-backdrop, ngb-modal-window
 wikifeet.com##div[data-endpoint="//trends.revcontent.com"]
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##div[data-label-text="AD"]
@@ -805,6 +803,7 @@ www.elamigos-games.com##.chatbro_container
 www.elmundo.es#@##didomi-host
 www.eroticbeauties.net###chatWindow
 www.facebook.com##a[aria-label="Enlace del anunciante"]
+www.facebook.com##div[data-pagelet="RightRail"] > div > span
 www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com###chp_ads_blocker-overlay
 www.gamesofdesire.com##.top_banner
