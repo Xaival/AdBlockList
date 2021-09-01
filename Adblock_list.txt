@@ -246,6 +246,8 @@ animefenix.com##.is-block
 animeflv.ac##iframe[data-bjppopads-handled="1"]
 animeflv.ru##center[class="hidden-xs hidden-sm"]
 animeflv.ru##.Dvr300
+www.cuevana-3.wtf##.sidebar #block-3
+www.vidcorntv.org##.sidebar#block-10
 antena3.com##.ob-smartfeed-wrapper
 antena3.com##.sibbo-layout
 anysex.com###content .no_pop
