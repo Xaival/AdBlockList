@@ -503,6 +503,9 @@ investing.com###primis_container_div
 its.porn##.twocolumns aside
 its.porn##.spot_large
 its.porn###comment_section
+pelisplus.so##.adsbelowvideo
+pelisplus.so##.cuadre_comments
+pelisplus.so##.row
 jizzbunker.com##.panel-rklcontent-wide
 jizzbunker.com##.panel-body
 juegosfullparapc.com##div[style^="z-index: 2147483647; position: fixed; width: 100%; bottom: 0px; left: 0px;"]
