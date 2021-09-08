@@ -246,8 +246,6 @@ animefenix.com##.is-block
 animeflv.ac##iframe[data-bjppopads-handled="1"]
 animeflv.ru##center[class="hidden-xs hidden-sm"]
 animeflv.ru##.Dvr300
-www.cuevana-3.wtf##.sidebar #block-3
-www.vidcorntv.org##.sidebar#block-10
 antena3.com##.ob-smartfeed-wrapper
 antena3.com##.sibbo-layout
 anysex.com###content .no_pop
@@ -505,9 +503,6 @@ investing.com###primis_container_div
 its.porn##.twocolumns aside
 its.porn##.spot_large
 its.porn###comment_section
-pelisplus.so##.adsbelowvideo
-pelisplus.so##.cuadre_comments
-pelisplus.so##.row
 jizzbunker.com##.panel-rklcontent-wide
 jizzbunker.com##.panel-body
 juegosfullparapc.com##div[style^="z-index: 2147483647; position: fixed; width: 100%; bottom: 0px; left: 0px;"]
@@ -624,7 +619,10 @@ pelishouse.com##div[cfapps-selector="#playcontainer"]
 pelisplus.me##.adx
 pelisplus.me##.movie-warning
 pelisplus.me##.main-site
+pelisplus.so##.row
 pelisplus.so##.adsuppervideo
+pelisplus.so##.adsbelowvideo
+pelisplus.so##.cuadre_comments
 pelisplus.video##iframe[style="width: 100% !important; height: 190px !important; opacity: 1 !important; max-width: 420px !important; border: none !important; position: fixed !important; display: block !important; z-index: 2147483647 !important; left: auto !important; right: 0px !important; top: 15px !important; bottom: auto !important;"]
 pinflix.com##.overlay-content
 pivigames.blog##.code-block-5
@@ -689,6 +687,7 @@ repelis.io##._2ahv0
 repelis.io##._2wa7P
 repelis24.is##.cobe
 repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
+animefenix.com##div[class="column is-12-mobile is-4-tablet is-3-desktop"], div[class="column is-12-mobile is-3-tablet is-3-deskop"]
 revistagq.com##div[data-test-id="AdBannerWrapper"]
 revistagq.com###onetrust-consent-sdk
 salamanca24horas.com##.front_widget_20bottom
@@ -802,6 +801,7 @@ www.adslzone.net##p[style="display:inline-block; width:100%;"]
 www.apotoxinfansub.com##.alert-danger
 www.crehana.com##div[data-test-id="ChatWidgetWindow"]
 www.crunchyroll.com###template_body #showmedia .right
+www.cuevana-3.wtf##.sidebar #block-3
 www.elamigos-games.com##.content_store
 www.elamigos-games.com##.alert-warning
 www.elamigos-games.com##.chatbro_container
@@ -835,6 +835,7 @@ www.uiporn.com##.video-right
 www.uiporn.com##.top-sponsor
 www.uiporn.com##div[style="display: block; width: 100%; max-width: 480px; position: relative; overflow: hidden; margin: 0px auto;"]
 www.uiporn.com##div[style="position: absolute; left: 0px; top: 0px; bottom: 0px; right: 0px; overflow: hidden; z-index: 160; background: transparent; display: block;"]
+www.vidcorntv.org##.sidebar#block-10
 www.wankoz.com###pre-adv
 www.youtube.com##ytd-display-ad-renderer
 www3.animeflv.net##.CpCnC > a
