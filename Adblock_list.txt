@@ -72,6 +72,7 @@
 ||d261u4g5nqprix.cloudfront.net
 ||d2d8qsxiai9qwj.cloudfront.net
 ||d2uy8iq3fi50kh.cloudfront.net
+||cursos.mejorcodigo.net/res/js/detector.js
 ||d38itq6vdv6gr9.cloudfront.net
 ||d3ithbwcmjcxl7.cloudfront.net
 ||dash.tmearn.com
@@ -243,6 +244,7 @@ analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
 animefenix.com##.is-block
+animefenix.com##div[class="column is-12-mobile is-4-tablet is-3-desktop"], div[class="column is-12-mobile is-3-tablet is-3-deskop"]
 animeflv.ac##iframe[data-bjppopads-handled="1"]
 animeflv.ru##center[class="hidden-xs hidden-sm"]
 animeflv.ru##.Dvr300
@@ -453,7 +455,6 @@ hclips.com##.video-page__item
 hclips.com##.__nat--videos
 hclips.com##.video-page__content .right
 hdsexvideos.pro##.camitems
-hentaini.com##.mx-auto > a
 hdsexvideos.pro##.mlppromo
 hdsexvideos.pro##.mult
 hdsexvideos.pro##.ipprtcnt
@@ -466,6 +467,7 @@ hellporno.com##.view-video-advertisements
 hellporno.com###XB-Native-Bottom-4x3
 hellporno.com##.bnnrs-player
 hellporno.net##.block-banner 
+hentaini.com##.mx-auto > a
 heureporno.com###footer-iframe
 heureporno.com###video-right
 hexupload.net##.extend_premium
@@ -688,7 +690,6 @@ repelis.io##._2ahv0
 repelis.io##._2wa7P
 repelis24.is##.cobe
 repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
-animefenix.com##div[class="column is-12-mobile is-4-tablet is-3-desktop"], div[class="column is-12-mobile is-3-tablet is-3-deskop"]
 revistagq.com##div[data-test-id="AdBannerWrapper"]
 revistagq.com###onetrust-consent-sdk
 salamanca24horas.com##.front_widget_20bottom
