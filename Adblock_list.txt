@@ -72,7 +72,6 @@
 ||d261u4g5nqprix.cloudfront.net
 ||d2d8qsxiai9qwj.cloudfront.net
 ||d2uy8iq3fi50kh.cloudfront.net
-||cursos.mejorcodigo.net/res/js/detector.js
 ||d38itq6vdv6gr9.cloudfront.net
 ||d3ithbwcmjcxl7.cloudfront.net
 ||dash.tmearn.com
@@ -86,7 +85,6 @@
 ||engine.eroge.com
 ||enormouslyauditorium.com
 ||eu-adsrv.rtbsuperhub.com
-||evtubescms.phncdn.com
 ||ew.rdtcdn.com
 ||eyefuneve.com
 ||facilitategovernor.com
@@ -184,6 +182,7 @@
 ||www.fcportables.com/wp-content/plugins/deblocker/css/deblocker.min.css
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||www.apotoxinfansub.com/js/jsvideosonline.js
+||cursos.mejorcodigo.net/res/js/detector.js
 ||www.fcportables.com/wp-content/plugins/deblocker/js/deblocker.min.js
 ##.adv-aside
 ##.ads
