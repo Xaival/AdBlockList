@@ -643,6 +643,10 @@ porngem.com##.top-sponsor
 porngem.com##.bottom-b-s
 porngem.com###PG-Nat2
 porngem.com##.video-right
+es.pornhub.com,pornhub.com##.abovePlayer
+es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
+es.pornhub.com,pornhub.com##video-element #pb_template
+es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 porngem.com##.fp-player iframe
 pornhub.com##body div cddei
 pornhub.com###welcome
