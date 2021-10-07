@@ -77,6 +77,7 @@
 ||dash.tmearn.com
 ||data.eroadvertising.com
 ||deliver.vkcdnservice.com
+||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
 ||disqus.com
 ||douoblelimpup.com
 ||dq3yxnlzwhcys.cloudfront.net
@@ -239,7 +240,6 @@ adultdeepfakes.com##div[data-placement="under_video"]
 anadoludabugun.com.tr##.banner
 anadoludabugun.com.tr##div[data-adsbygoogle-status]
 anadoludabugun.com.tr###prestitial_banner
-publicdomainvectors.org##.sponsored-main-detail .istock-main-detail
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
@@ -676,6 +676,7 @@ pornxs.com##.notify_adblock
 pornxs.com##.notify_cookie
 powv1deo.cc###oly
 pslfive.com##iframe[scrolling="no"]
+publicdomainvectors.org##.sponsored-main-detail .istock-main-detail
 publico.es##.pb-ads
 publico.es##div[data-id="sticky-bottom-unete"]
 publico.es##.header-msg-link
