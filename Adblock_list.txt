@@ -13,7 +13,6 @@
 ||d1rsh847opos9y.cloudfront.net
 ||deloplen.com
 ||edua29146y.com
-||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
 ||m.addthis.com
 ||mixdrop.co/js/jRange/jquery.range.css
 ||www.skidrowreloaded.com/wp-content/js
@@ -78,7 +77,6 @@
 ||dash.tmearn.com
 ||data.eroadvertising.com
 ||deliver.vkcdnservice.com
-||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
 ||disqus.com
 ||douoblelimpup.com
 ||dq3yxnlzwhcys.cloudfront.net
@@ -183,6 +181,7 @@
 ||pasfox.com/js/buscador/jquery.js
 ||www.fcportables.com/wp-content/plugins/deblocker/css/deblocker.min.css
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
 ||www.apotoxinfansub.com/js/jsvideosonline.js
 ||cursos.mejorcodigo.net/res/js/detector.js
 ||www.fcportables.com/wp-content/plugins/deblocker/js/deblocker.min.js
@@ -238,6 +237,7 @@ adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##.p-2
 adultdeepfakes.com##div[data-banner-placement="under_video"]
 adultdeepfakes.com##div[data-placement="under_video"]
+airxander.com###seem-d34808f5a9247ba47ef7436aab75be33
 anadoludabugun.com.tr##.banner
 anadoludabugun.com.tr##div[data-adsbygoogle-status]
 anadoludabugun.com.tr###prestitial_banner
@@ -298,6 +298,7 @@ codepen.io###bsa-footer
 commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
 console.cloud.google.com#@#iframe[src="about:blank"]
+uploady.io#@##ads
 convertio.co##.chrome-app
 correodelsur.com##.ads-google
 correodelsur.com##.col-md-12.col-lg-12.no-padding
