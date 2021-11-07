@@ -299,6 +299,7 @@ commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
 console.cloud.google.com#@#iframe[src="about:blank"]
 uploady.io#@##ads
+uploady.io##.gads
 convertio.co##.chrome-app
 correodelsur.com##.ads-google
 correodelsur.com##.col-md-12.col-lg-12.no-padding
