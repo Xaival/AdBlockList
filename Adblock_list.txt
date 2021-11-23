@@ -8,6 +8,7 @@
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
+
 ||antiadblocksystems.com
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||d1rsh847opos9y.cloudfront.net
@@ -298,8 +299,6 @@ codepen.io###bsa-footer
 commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
 console.cloud.google.com#@#iframe[src="about:blank"]
-uploady.io#@##ads
-uploady.io##.gads
 convertio.co##.chrome-app
 correodelsur.com##.ads-google
 correodelsur.com##.col-md-12.col-lg-12.no-padding
@@ -775,6 +774,8 @@ txxx.com##.video-page__content .rightt
 u.sanoybonito.club##.banner-inner
 uiporn.com##.wrapper div[style="text-align: right"]
 uploaded.net###ad-group-download-bottom
+uploady.io##.gads
+uploady.io#@##ads
 uptobox.com##ins[style="text-decoration: none;"]
 uptodown.com##.advertisement
 uptodown.com###header_ad
