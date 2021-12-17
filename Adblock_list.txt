@@ -75,6 +75,7 @@
 ||d38itq6vdv6gr9.cloudfront.net
 ||d3ithbwcmjcxl7.cloudfront.net
 ||dash.tmearn.com
+||ad.a-ads.com
 ||data.eroadvertising.com
 ||deliver.vkcdnservice.com
 ||disqus.com
