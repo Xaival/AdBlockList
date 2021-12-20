@@ -73,6 +73,7 @@
 ||d2d8qsxiai9qwj.cloudfront.net
 ||d2uy8iq3fi50kh.cloudfront.net
 ||d38itq6vdv6gr9.cloudfront.net
+||www.kongregate.com/robots.txt?upapi=true
 ||d3ithbwcmjcxl7.cloudfront.net
 ||dash.tmearn.com
 ||ad.a-ads.com
@@ -94,6 +95,9 @@
 ||g.doubleclick.net
 ||galleryn0.awemdia.com
 ||gamesfromheaven.com
+||www.mejortorrentes.net/publi_440_sgaming.php
+||www.mejortorrentes.net/publi_728_sgaming.php
+||www.mejortorrentes.net/bannner_footer.php
 ||geedoovu.net
 ||gjw5qbyn93b8.com
 ||go.admjmp.com
