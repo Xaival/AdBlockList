@@ -12,12 +12,9 @@
 ||repelisgooo.com/srv-pv/tag-1330047
 ||www.pornhub.com/_xa/ads
 ||pasfox.com/js/buscador/jquery.js
-||www.fcportables.com/wp-content/plugins/deblocker/css/deblocker.min.css
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
-||www.apotoxinfansub.com/js/jsvideosonline.js
 ||cursos.mejorcodigo.net/res/js/detector.js
-||www.fcportables.com/wp-content/plugins/deblocker/js/deblocker.min.js
 @@||sdk.privacy-center.org
 ##.adv-aside
 ##.ads
@@ -54,27 +51,10 @@
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
 ##.user-comments
-1337x.to###M90304ScriptRootC221935
-1337x.to###lp-container
-20minutos.es##div[data-dynload]
-20minutos.es##div[data-google-query-id]
-20minutos.es##.axds-lane
-20minutos.es##.outbrain-sidebar
-4everpaste.blogspot.com##.widget-content
-4shared.com##div[data-ga="rmvads.1"]
-4shared.com##ins[data-cp-filetype="ARCHIVE"]
-4shared.com##.d1AdsWrapper
-4shared.com##div[style="position: fixed; visibility: visible; left: 0px; top: 0px; width: 100%; height: 100%; z-index: 90;"]
-9gag.com###qc-cmp2-container
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
-adultdeepfakes.com##.p-2
 adultdeepfakes.com##div[data-banner-placement="under_video"]
-adultdeepfakes.com##div[data-placement="under_video"]
-airxander.com###seem-d34808f5a9247ba47ef7436aab75be33
 anadoludabugun.com.tr##.banner
-anadoludabugun.com.tr##div[data-adsbygoogle-status]
-anadoludabugun.com.tr###prestitial_banner
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
