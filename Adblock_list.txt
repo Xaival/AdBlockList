@@ -14,6 +14,7 @@
 ||pasfox.com/js/buscador/jquery.js
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
+||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 ||cursos.mejorcodigo.net/res/js/detector.js
 @@||sdk.privacy-center.org
 ##.adv-aside
@@ -44,6 +45,7 @@
 ###pb_template
 ##html > iframe
 ##.wrapper__related-sites
+###onetrust-banner-sdk
 ##.cookies-policy-block
 ###cookie-law-info-bar
 ###cookie-policy
@@ -58,133 +60,46 @@ anadoludabugun.com.tr##.banner
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
-animefenix.com##.is-block
-animefenix.com##div[class="column is-12-mobile is-4-tablet is-3-desktop"], div[class="column is-12-mobile is-3-tablet is-3-deskop"]
-animeflv.ac##iframe[data-bjppopads-handled="1"]
-animeflv.ru##center[class="hidden-xs hidden-sm"]
-animeflv.ru##.Dvr300
+animefenix.com##.adtrue-div
 antena3.com##.ob-smartfeed-wrapper
-antena3.com##.sibbo-layout
-anysex.com###content .no_pop
-anysex.com##.naf_dd
-anysex.com##.fluid-b
-artistapirata.com###text-24
-as.com##.articulo .container .row .col-md-12
-as.com##.publi-vertical
-as.com##.slider-producto
-as.com##.ad-h-fix aside
-awdescargas.com##div[data-index="1"]
-awdescargas.com##div[data-index="2"]
-awlinks.me##.adace-slot-wrapper
-babestube.com##.twocolumns .aside
-bbc.com###cookiePrompt
-bcvc.live##.adArea
-bcvc.live###pnsIPPMainContainer
+anysex.com##.main .content_right
+anysex.com##.movie .type2
+anysex.com###content .center *
+artistapirata.com##.adsbygoogle
+as.com##.publi
+as.com##.banner_sup
+babestube.com##.viewlist .more-videos
+babestube.com##.viewlist .timelines
+bbc.com###dotcom-leaderboard
 blizzboygames.net##div [style="float: none; margin:20px 0 20px 0; text-align:center;"]
 blizzboygames.net##.vc_col-sm-12
-blizzboygames.net##.cc-window
-bravotube.net##.brazzers
-bravotube.net##.vids .searchContainer
-bravotube.net###BT-Native-Footer-Left
-bravotube.net###BT-Native-Footer-Right
-bravotube.net##.under-video2
-bravotube.net###BT-Native-Big
-bravotube.net##.wrap .box-left
-bravotube.net##.inplb
-bravotube.net##.inplb3x2
-c-ut.com##iframe[allowtransparency="true"]
-c-ut.com##marquee
+blizzboygames.net###gp-sidebar .widget_text
+bravoporn.com##.box-left
+bravoporn.com###rvt-inline-0
 cadenaser.com##.ob-smartfeed-wrapper
-cadenaser.com##.ad-item
-celeb.gate.cc##.text-center
-celeb.gate.cc###sidebar
-cine-online.eu##.btn_pub
-clipwatching.com##iframe
-clipwatching.com##.video_ad_fadein_
-clipwatching.com##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: 10px; bottom: auto; right: 10px; left: auto;"]
-clipwatching.com##iframe[style="width: 100% !important; height: 190px !important; opacity: 1 !important; max-width: 420px !important; border: none !important; position: fixed !important; display: block !important; z-index: 2147483647 !important; left: auto !important; right: 0px !important; top: 15px !important; bottom: auto !important; background: transparent !important;"]
-clipwatching.com##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: auto; bottom: 10px; right: 0px; left: 0px;"]
-clipwatching.com##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: auto; bottom: 10px; right: 10px; left: auto;"]
-clipwatching.com##div[style="pointer-events: none; position: absolute; top: 0px; left: 0px; width: 627px; height: 921px; z-index: 2147483647;"]
-clk.ink##div[style="display: block !important;"]
-cloudvideo.tv##iframe
+celeb.gate.cc##.container>.text-center
+celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
 commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
-console.cloud.google.com#@#iframe[src="about:blank"]
 convertio.co##.chrome-app
-correodelsur.com##.ads-google
-correodelsur.com##.col-md-12.col-lg-12.no-padding
-correodelsur.com###fancesaPubli
-cpmlink.net###contact
-cpmlink.net##div[style="display: block !important;"]
-crunchyroll.com##.cr-expo-banner
-crunchyroll.com##.message-container.cf
-crunchyroll.com##.game-banner-wrapper, .showmedia-submenu.white-wrapper.cf.container-shadow.small-margin-bottom
-cumlouder.com##.aan-bottom
-cumlouder.com##.aan-promo
-danimados.com##.fixed-sidebar-blank
-danimados.com##.mCS-autoHide
-danimados.com##.sidebar 
-danimados.com###container-d18ab4e34f688da70e05be330a5aedb7
-deepai.org#@#iframe[src="about:blank"]
+correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
+cumlouder.com##.smt-bottom
+cumlouder.com##.smt-promo
 deviants.com##.bottom-adv
 deviants.com##.twocolumns .aside
-dfiles.eu##iframe[allowtransparency="allowtransparency"]
-dfiles.eu##.banner1
-diario16.com##.td_block_template_8
-diario16.com###tg-adhesion
-diariodesevilla.es###didomiConsentOverlay
 diariosanitario.com##.sidebar-narrow
 diariosanitario.com##.e3lan-post
 diariosanitario.com##.home-ads
-diariosanitario.com##div[style="clear:both;float:left;width:100%;margin:0 0 20px 0;"]
 diariosanitario.com##.bannersubheader
 diariosanitario.com##.cabecera
 diariosanitario.com##.e3lan-bottom
 digitalpolicylaw.com##.td-header-sp-recs
-digitalpolicylaw.com##.td-a-rec-id-sidebar
-dirtyship.com###l_340
-dirtyship.com##.custom-html-widget
-dirtyship.com###th-postitial-container-49709
-discord.club##div[class="row justify-content-center p-0 m-0 d-none d-lg-flex d-xl-flex"]
 discord.com##.notice-3bPHh-
-discord.com##.channelNotice-1-XFjC
-discord.com##.invite-OjTXrW
-discord.com##.quickswitcher-35bYg4
-dl-android.com###BannerAdLink
-docs.google.com##.active-account-dialog
 downdetector.es###_evidon-barrier-wrapper
-dredown.com##.check_notify
-dredown.com##iframe
-dredown.com##.mgbox
-driverhub.uptodown.com##.banner-download
-driverhub.uptodown.com##.gad
-driverhub.uptodown.com###content_ad_2
-driverhub.uptodown.com###content_ad_bottom
-drtuber.com##.aside_panel_video
-drtuber.com##.footer .item_box
-drtuber.com##.livecams_main .twocolumns
-drtuber.com##.wrapper_frame
-drtuber.com###video_list_banner
-drtuber.com###video-slider
-drtuber.com##.drt-spot-visible
-eleconomista.es##.mainRelatedNews
-eleconomista.es##div [data-google-query-id]
-eleconomista.es##form
 eleconomista.es##.banners-superiores2
-eleconomista.es##.eeco_wallpaper
-eleconomista.es##.publicidad_120
-elespanol.com##.article-adv
-elespanol.com##.container__outbrain
-youtube.com##.video-ads
-elespanol.com##.container__sunmedia
-elespanol.com##.sm-main-container
-elespanol.com##.inImage
-elespanol.com##div[data-device="desktop"]
-elespanol.com##.sm-preroll-container
-elespanol.com###article__footer-nav
-elfarandi.com###sticky-pbs
+elespanol.com##.adv
+elespanol.com##.msg-footer
 eljoker18.blogspot.com###sidebar-wrapper .Image
 eljoker18.blogspot.com###sidebar-wrapper .HTML
 emojipedia.org##.ad-sidebar
@@ -710,6 +625,7 @@ youporn.com##.e8-column
 youporn.com##.warning_block
 youporn.com###js_euCookieModal
 youtube.com###masthead-ad
+youtube.com##.video-ads
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-search-pyv-renderer
 yoututosjeff.es###WgD
