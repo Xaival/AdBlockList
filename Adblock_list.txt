@@ -177,6 +177,7 @@ eleconomista.es##.eeco_wallpaper
 eleconomista.es##.publicidad_120
 elespanol.com##.article-adv
 elespanol.com##.container__outbrain
+youtube.com##.video-ads
 elespanol.com##.container__sunmedia
 elespanol.com##.sm-main-container
 elespanol.com##.inImage
