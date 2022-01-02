@@ -85,7 +85,6 @@ commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
 convertio.co##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
-www.youtube.com,m.youtube.com,music.youtube.com,youtube-nocookie.com#$#json-prune '0.playerResponse.adPlacements 0.playerResponse.playerAds 1.playerResponse.adPlacements 1.playerResponse.playerAds 2.playerResponse.adPlacements 2.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds ytInitialPlayerResponse.adPlacements ytInitialPlayerResponse.playerAds adPlacements playerAds'
 cumlouder.com##.smt-bottom
 cumlouder.com##.smt-promo
 deviants.com##.bottom-adv
@@ -102,64 +101,35 @@ downdetector.es###_evidon-barrier-wrapper
 eleconomista.es##.banners-superiores2
 elespanol.com##.adv
 elespanol.com##.msg-footer
-eljoker18.blogspot.com###sidebar-wrapper .Image
-eljoker18.blogspot.com###sidebar-wrapper .HTML
-emojipedia.org##.ad-sidebar
-empflix.com###mewTives
-empflix.com##.rightBarBannersx
-empflix.com###zoneInPlayer
-es.pornhub.com,pornhub.com##.abovePlayer
+empflix.com##.rbsd .mewBlock
+empflix.com##.pspBanner
+empflix.com##.withRightBar div[style="cursor: pointer;"]
+empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
+es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
 es.pornhub.com,pornhub.com##video-element #pb_template
-es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
-es.redtube.com###video_right_col div:first-of-type
-es.redtube.com##.video_left_section .hd
-es.redtube.com###block_hottest_videos_by_country
-es.redtube.com##cddei
+es.pornhub.com,pornhub.com##.sniperModeEngaged
+es.redtube.com###below_footer_ad_content
 es.redtube.com##iframe[data-spot-id]
-es.redtube.com##.hide_side_videos
-es.redtube.com##deicc
-es.redtube.com##.search_upper_right_ad
-es.redtube.com###show_page_streamate
-es.redtube.com##.search_results_streamate
-es.redtube.com###ab_banner
-es.redtube.com###eu_cookie_disclaimer
 es.redtube.com###video_right_col
-es.xhamster.com##.wih-spb
-es.xhamster.com##.wih-spot-container
+es.redtube.com##.ads_under_player
+es.redtube.com###pb_template
+es.redtube.com###block_hottest_videos_by_country li:first-child
+es.redtube.com##.abovePlayer
+es.redtube.com###eu_cookie_disclaimer
+es.xhamster.com##.wio-xspot-container
+es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
-es.xhamster.com###commentBox
-espreso.rs###midasWidget__576
-espreso.rs###pubjelly-stickyWrapper-bottom
-espreso.rs##.qc-cmp-ui-container
-estafallando.es##.qc-cmp2-container
-euronics.es##.sgpb-popup-overlay
-euronics.es###sgpb-popup-dialog-main-div-wrapper
-exee.io###pgdg-gdpr
-facuchogames.com###g207
-fantasti.cc##div [data-bn-left]
-fantasti.cc###overpht
-followporno.com###over
-followporno.com##.native-block
-followporno.com##.p300-bns-bl
-followporno.com##.p300-video-rt
-followporno.com###cb-banner
+euronics.es###cconsent-bar
+facuchogames.com###cookieChoiceInfo
 forums.unrealengine.com###onetrust-banner-sdk
-freesexvideos.su##.camitems
-freesexvideos.su##.mlppromo
-freesexvideos.su##.mult
-fullfree.net##.tpaw0
-fullfree.net###POPUPS_ROOT
-gamcore.com##div[class="col-2 d-none d-md-block rightAdd"]
+gamcore.com##.add_game .add_game
+gamcore.com###preloader_2
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
-gamcore.com##canvas[width="400"]
-gamcore.com##.side_flashes
-gamepciso.com###HTML2
-gamesmega.net###text-5
-gamesmega.net##.ssocial
-gamesmega.net##.comentarios
-gamesmega.net###text-8
+gamcore.com##.droitAjout
+gamcore.com##.cc_banner-wrapper
+gamepciso.org###HTML2 .widget-content
 gamesradar.com###qc-cmp2-container
 gamestorrents.nu##.middles
 gamezfull.com##.blocks .block .block-text
