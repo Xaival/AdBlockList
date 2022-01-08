@@ -418,11 +418,13 @@ sexvid.xxx##.download_link
 sexvid.xxx##.intro
 sexvid.xxx##.spots_thumbs
 sexvid.xxx###banner_video
+sharewareonsale.com###onesignal-slidedown-container
 sheshaft.com###video_comments_video_comments
 shon.xyz, shink.me##iframe[scrolling="no"]
 shorten.sh##.banner-inner
 shorten.sh###cookie-pop
 smashmexico.com.mx##.teads-inread
+soundcloud.com###onetrust-consent-sdk
 spankwire.com###js-react-header-box
 spankwire.com##.sc-iAyFgw
 spankwire.com##.columns__right
