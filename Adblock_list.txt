@@ -28,6 +28,7 @@
 ##iframe[sandbox="allow-same-origin allow-scripts allow-popups"]
 ##a[aria-label="link to donation page"]
 ##.adsbygoogle
+##html>iframe
 ##.aan_fake
 ##.bottom-banners
 ##.aan_fake__video-units
@@ -66,7 +67,6 @@ antena3.com##.ob-smartfeed-wrapper
 anysex.com##.main .content_right
 anysex.com##.movie .type2
 anysex.com###content .center *
-artistapirata.com##.adsbygoogle
 as.com##.publi
 as.com##.banner_sup
 babestube.com##.viewlist .more-videos
@@ -131,187 +131,110 @@ gamcore.com##.droitAjout
 gamcore.com##.cc_banner-wrapper
 gamepciso.org###HTML2 .widget-content
 gamesradar.com###qc-cmp2-container
-gamestorrents.nu##.middles
+gamestorrents.fm##.principio_plugin
 gamezfull.com##.blocks .block .block-text
-garticphone.com##.banner
 garticphone.com###cmpbox
-gdanstum.net##iframe[style="position: fixed; display: block; z-index: 2147483647; margin: 0px; padding: 0px; outline: none; border: none; background-color: transparent; width: 320px; height: 134px; box-sizing: border-box; top: 0px; bottom: auto; left: 50px; transform: scale(1); transform-origin: left top 0px;"]
-gdanstum.net###cookie_notice
-geeksforgeeks.org##.login-modal-div
-geeksforgeeks.org##.cc-window
-getintopc.com###rpouwdrhyxr
-google.com, google.es##.ads-ad
-google.com, google.es###bottomads
-google.com, google.es###tads
 google.com, google.es###taw
 google.com, google.es###gws-output-pages-elements-homepage_additional_languages__als
-google.com, google.es###prm
-google.com, google.es###hptl
-gotporn.com##.spnsrd
 gotporn.com##.sidebar
+gotporn.com##.spnsrd
 gotporn.com##.video-player-overlay
-grqnkdy.blogspot.com###overlay-container
-h-flash.com##div[type="adzone"]
-hablamosdegamers.com##iframe[data-glx="yeap"]
-hablamosdegamers.com##.qc-cmp-cleanslate
+h-flash.com##*[itemtype="http://schema.org/WPAdBlock"]
+h-flash.com###ads_0
+hablamosdegamers.com##.no-animation
 happy-landing.net###secondary
 happy-landing.net##.quads-location
-happy-landing.net###taboola-below-article-thumbnails
 haya.es###CybotCookiebotDialog
-hclips.com##.video-page__item
-hclips.com##.__nat--videos
+hclips.com##.video-page__item *
+hclips.com##.__nat--
+hclips.com##.footer-banners *
 hclips.com##.video-page__content .right
+hclips.com##.partners-wrap
+hclips.com##.cookies-policy-block
+hdsexvideos.pro##iframe[marginheight="0"]
 hdsexvideos.pro##.camitems
-hdsexvideos.pro##.mlppromo
 hdsexvideos.pro##.mult
-hdsexvideos.pro##.ipprtcnt
-hdzog.com##.video-container #channel-banner
-hdzog.com##.player-wrapper .player-showtime-two
-hdzog.com##.msg-adblock
+hdzog.com##.fiioed *
+hdzog.com##.header__cookie
+hdzog.com##.video-page__banners *
+hdzog.com##.footer-banners *
 hellporno.com##.block-title
 hellporno.com##.footer-advertisements
 hellporno.com##.view-video-advertisements
-hellporno.com###XB-Native-Bottom-4x3
 hellporno.com##.bnnrs-player
 hellporno.net##.block-banner 
 hentaini.com##.mx-auto > a
-heureporno.com###footer-iframe
 heureporno.com###video-right
-hexupload.net##.extend_premium
-hexupload.net##strong[style="color:#000;font-size: 1.5em;"]
-hexupload.net##a[style="display: block; height: inherit;"]
-hexupload.net##div[style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 2147483647; background: black; opacity: 0.01; height: 937px; width: 1402px;"]
-hexupload.net##div[style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; z-index: 2147483647; background: black; opacity: 0.01; height: 937px; width: 1445px;"]
 hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
-hotmovs.com##.underplayer-box *
-hotmovs.com##.sidebar *
-hotmovs.com##.__nat_box
-hotmovs.com###wrap main noindex
-hypestat.com##.mgbox
-ibit.am##div[style="position: fixed; z-index:100000; top:50px; left: 50%; margin-left:-410px; max-width: 820px; padding: 10px; border-radius: 6px; background-color: rgba(0, 0, 0, 0.6);"]
-ifttt.com##.styles__popup-container__1sHZX
+hotmovs.com##.app-banners *
+hotmovs.com##.video-page__content .right
+hotmovs.com##.fiioed *
+hotmovs.com##.partners-wrap
+ibit.am## iframe
+igg-games.com##.textwidget
 igg-games.com###widget-advads_ad_widget-3
-igg-games.com###widget-advads_ad_widget-8
+igg-games.com##.games-after-content
 iloveimg.com###toast-container
 img2go.com##div[role="alert"]
-infojobs.net##.ij-AdBanner-top
-infojobs.net##.ij-AdBanner-aside
-inkapelis.me##.data div:nth-of-type(3)
-instagram.com##.vboSt
 instagram.com##._8UZ6e
-internetpasoapaso.com##div[style="clear:both; margin-top:0em; margin-bottom:1em;"]
-investing.com##.truste_overlay
 investing.com##.midHeader
-investing.com###ad1
-investing.com##div[data-google-query-id]
 investing.com###hpAdVideo
 investing.com##.earAdv
-investing.com##.truste_box_overlay
-investing.com###primis_container_div
 its.porn##.twocolumns aside
 its.porn##.spot_large
 its.porn###comment_section
 jizzbunker.com##.panel-rklcontent-wide
 jizzbunker.com##.panel-body
-juegosfullparapc.com##div[style^="z-index: 2147483647; position: fixed; width: 100%; bottom: 0px; left: 0px;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
-k2s.cc##.label-360p
 kennysoft.blogspot.com##.skin-right
 kennysoft.blogspot.com###HTML5
-kennysoft.blogspot.com##.ats-light
+kennysoft.blogspot.com##.cookie-choices-inner
 kennysoft.blogspot.com##.optiads-native
-kennysoft.blogspot.com##.main__general
-kennysoft.blogspot.com###wh-widget-send-button
 lacasadeel.net##.td-a-rec
-lasexta.com##div[data-related="mod-roba"]
-lasexta.com##iframe[src="about:blank"]
-lasexta.com##.mod-ad-top
-lasexta.com##.app_gdpr--2k2uB
-lasexta.com##.sibbo-layout
-lasexta.com##.header-msg-link
+lacasadeel.net###webpushr-prompt-wrapper
 leeporn.com##.right-player-col
+leeporn.com##body>center
 leeporn.com##.bns-bl
 lightpdf.com##.education
 lightpdf.com##.chrome-app
 linkedin.com##div[data-test-global-alert="0"]
-luisitogeek.com##ins[data-adsbygoogle-status]
-m.animeflv.net##.OUTBRAIN
+luisitogeek.com###cookieChoiceInfo
+m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
+maduras.xxx###cookiescript_injected
 maduras.xxx###sidebar
-mail.google.com#@#.ads
-mail.google.com#@#.adsbygoogle
-mature-mom.tube##.spot-section
-mature-mom.tube###myads
-mazterize.com##.entry-content center
+mature-mom.tube##.spot-section .spot
+mature-mom.tube##body>font[color="black"]
+mature-mom.tube##body>center
+mature-mom.tube##.thumbnails-wrapper iframe
 mazterize.com###dl-g
-mcgrp.ru###ouibounce-modal
-mediafire.com###adwrapper iframe
 mediafire.com###div-gpt-ad-1583943738910-0
 mediafire.com###cookie-accept-footer
 mediafire.com##.fc-consent-root
-mediafire.com##.social-cont
 mediafire.com##.DLExtraInfo-wrap
-mediafire.com#@#.ads
-megadede.com##.siblings
-megadede.com##.comments-container
-megadede.com##.content hr:nth-of-type(2)
-megadede.com##.main-content hr
 megatube.xxx##.widget-connected
+megatube.xxx##.content--right-ads .place
 megatube.xxx##.footer-margin
-mejortorrentt.net###main_td_right
-mejortorrentt.net###main_td_center_center iframe
-mixamo.com###_evidon_banner
-mixdrop.co###rn_native_bqupr
-mixdrop.co##.vjs-poster
-mixdrop.co##div[onclick="$(this).remove();MDinjectP2()"]
-mixkit.co##.ReactModalPortal
-moncloa.com##.td_block_template_14
-moncloa.com##div[style="width: 100%; display: flex; justify-content: center; padding: 10px 0px;"]
-moncloa.com##div[role="complementary"]
-moresexvideo.com##.brs-block
-moresexvideo.com##.full-bns-block
-moresexvideo.com###close
-moresexvideo.com###pl1
-movidy.co##.IOarzRhPlPOverlay
-movies.hentaistream.com##.othercontent
-movies.hentaistream.com##.featured
-movies.hentaistream.com##.featuredimgs
-movies.hentaistream.com##div[name="adx_ad668"]
-mrdeepfakes.com##.mn-related-container
-mrdeepfakes.com##div[style="position: absolute; left: 0px; top: 0px; bottom: 0px; right: 0px; overflow: hidden; background: transparent; display: block;"]
-mshare.xyz##.ads_336
-muycerdas.xxx##.cntcol aside
-muycerdas.xxx###cookiescript_injected
-mypornogram.com###over
-mypornogram.com##.native-block
-mypornogram.com##.p300-bns-bl
-mypornogram.com##.p300-video-rt
-mypornogram.com###cb-banner
+tube.hentaistream.com##.morecontent
+tube.hentaistream.com###commentscontainer
+tube.hentaistream.com##.othercontent
+tube.hentaistream.com##div[name="adx_ad668"]
+mrdeepfakes.com##.block-video .table
+mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
-neo2.com##.anunciosup
 newpct.me##.ficha_descarga_opciones
-newpct.me##.rrss-botones-top
-nosteam.ro###drop
-notus.com.mx##.header-container
+nosteam.ro###fanback
 notus.com.mx##.stream-item
+nuestrotecnomundotutoriales.blogspot.com###cookieChoiceInfo
 nuestrotecnomundotutoriales.blogspot.com##header
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
-online-convert.com##.responsive_ad_top
-online-convert.com##.fc-ab-root
-online-convert.com##.fc-dialog-container
 online-convert.com###qg-toast
-ouo.io##.mgbox
-ouo.io##.OUTBRAIN
-ouo.io##div[style="width:300px;margin:15px auto;text-align:center;"]
-ouo.io##div[style="padding-top:10px;margin:0 auto;width:300px;"]
-ouo.io##div[style="padding-top:10px;margin:0 auto;width:725px;"]
-ouo.io##iframe[style="width: 100% !important; height: 190px !important; opacity: 1 !important; max-width: 420px !important; border: none !important; position: fixed !important; display: block !important; z-index: 2147483647 !important; left: auto !important; right: 0px !important; top: 15px !important; bottom: auto !important;"]
-ouo.io##.vdo_stories_floating
-ouo.io###p_2890412
-ouo.press##.it-client
+ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
+ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
+ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
 p.clk.ink###google-captcha-popup-54673
 packsmega.info##.widget_custom_html
