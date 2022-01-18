@@ -169,13 +169,13 @@ hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
 hotmovs.com##.app-banners *
-hotmovs.com##.video-page__content .right
 hotmovs.com##.fiioed *
+hotmovs.com##.video-page__content .right
 hotmovs.com##.partners-wrap
 ibit.am## iframe
+igg-games.com##.games-after-content
 igg-games.com##.textwidget
 igg-games.com###widget-advads_ad_widget-3
-igg-games.com##.games-after-content
 iloveimg.com###toast-container
 img2go.com##div[role="alert"]
 instagram.com##._8UZ6e
@@ -185,42 +185,38 @@ investing.com##.earAdv
 its.porn##.twocolumns aside
 its.porn##.spot_large
 its.porn###comment_section
-jizzbunker.com##.panel-rklcontent-wide
 jizzbunker.com##.panel-body
+jizzbunker.com##.panel-rklcontent-wide
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
 kennysoft.blogspot.com##.skin-right
 kennysoft.blogspot.com###HTML5
-kennysoft.blogspot.com##.cookie-choices-inner
 kennysoft.blogspot.com##.optiads-native
+kennysoft.blogspot.com##.cookie-choices-inner
 lacasadeel.net##.td-a-rec
 lacasadeel.net###webpushr-prompt-wrapper
-leeporn.com##.right-player-col
 leeporn.com##body>center
+leeporn.com##.right-player-col
 leeporn.com##.bns-bl
 lightpdf.com##.education
 lightpdf.com##.chrome-app
 linkedin.com##div[data-test-global-alert="0"]
 luisitogeek.com###cookieChoiceInfo
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
-maduras.xxx###cookiescript_injected
 maduras.xxx###sidebar
-mature-mom.tube##.spot-section .spot
+maduras.xxx###cookiescript_injected
 mature-mom.tube##body>font[color="black"]
 mature-mom.tube##body>center
 mature-mom.tube##.thumbnails-wrapper iframe
+mature-mom.tube##.spot-section .spot
 mazterize.com###dl-g
 mediafire.com###div-gpt-ad-1583943738910-0
 mediafire.com###cookie-accept-footer
 mediafire.com##.fc-consent-root
 mediafire.com##.DLExtraInfo-wrap
 megatube.xxx##.widget-connected
-megatube.xxx##.content--right-ads .place
 megatube.xxx##.footer-margin
-tube.hentaistream.com##.morecontent
-tube.hentaistream.com###commentscontainer
-tube.hentaistream.com##.othercontent
-tube.hentaistream.com##div[name="adx_ad668"]
+megatube.xxx##.content--right-ads .place
 mrdeepfakes.com##.block-video .table
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
@@ -315,6 +311,9 @@ redhat.com##.truste_overlay
 redwap.me###right_col
 reloj-alarma.es###pnl-neon
 repelis.io##div[style="min-height: 50px"]
+conpilar.es###ez-cookie-dialog-wrapper
+conpilar.es###ezmobfooter
+conpilar.es##.ezoic-ad-adaptive
 repelis.io###buttons
 repelis.io##.K3m7L
 repelis.io##._2ahv0
@@ -383,6 +382,10 @@ tnaflix.com###mewUnd
 tnaflix.com###zoneInPlayer
 torlock.com##iframe[sandbox="allow-popups allow-scripts allow-same-origin"]
 torlock.com##.hidden-xs
+tube.hentaistream.com##.othercontent
+tube.hentaistream.com##div[name="adx_ad668"]
+tube.hentaistream.com##.morecontent
+tube.hentaistream.com###commentscontainer
 tube1st.com###close
 tube8.com,tube8.es###announcement_ticker
 tube8.com,tube8.es##.rightColBanner
