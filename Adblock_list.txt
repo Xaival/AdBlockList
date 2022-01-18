@@ -125,6 +125,7 @@ facuchogames.com###cookieChoiceInfo
 forums.unrealengine.com###onetrust-banner-sdk
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
+elpais.com##.ad
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##.droitAjout
@@ -183,7 +184,6 @@ investing.com##.midHeader
 investing.com###hpAdVideo
 investing.com##.earAdv
 its.porn##.twocolumns aside
-conpilar.es##.ezoic-ad
 its.porn##.spot_large
 its.porn###comment_section
 jizzbunker.com##.panel-body
@@ -313,6 +313,7 @@ redwap.me###right_col
 reloj-alarma.es###pnl-neon
 repelis.io##div[style="min-height: 50px"]
 conpilar.es###ez-cookie-dialog-wrapper
+conpilar.es##.ezoic-ad
 conpilar.es###ezmobfooter
 conpilar.es##.ezoic-ad-adaptive
 repelis.io###buttons
