@@ -110,10 +110,15 @@ empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
+es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
 es.pornhub.com,pornhub.com##video-element #pb_template
+es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
 es.pornhub.com,pornhub.com##.sniperModeEngaged
+es.pornhub.com,pornhub.com##.cookiesBanner
+es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
+es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.redtube.com###below_footer_ad_content
 es.redtube.com##iframe[data-spot-id]
 es.redtube.com###video_right_col
@@ -139,6 +144,7 @@ gamesradar.com###qc-cmp2-container
 gamestorrents.fm##.principio_plugin
 gamezfull.com##.blocks .block .block-text
 garticphone.com###cmpbox
+giveaway.tickcoupon.com##.sp-native-popover
 google.com, google.es###taw
 google.com, google.es###gws-output-pages-elements-homepage_additional_languages__als
 gotporn.com##.sidebar
@@ -236,179 +242,33 @@ online-convert.com###qg-toast
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
-giveaway.tickcoupon.com##.sp-native-popover
-outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
-p.clk.ink###google-captcha-popup-54673
-packsmega.info##.widget_custom_html
-paiza.io##div[ng-show="showAmazonAd"]
+outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
-pastebin.com###__vliadb83, #__vliadb83-bg
-peliculas24.me##iframe[style="display: block; border: none; position: fixed; z-index: 2147483647; max-width: 90%; margin: auto; top: 10px; bottom: auto; right: 10px; left: auto;"]
-peliculas24.me##iframe[width="450px"]
-peliculas24.me##.block-social
-peliculas24.me###commentfb
-peliculas24.me###cookiedata
+peliculas24.me##.content-kuss-ads
 peliculas24.me##div[itemprop="description"] h3
-peliculas24.pro###cookiedata
-pelishouse.com##div[cfapps-selector="#playcontainer"]
 pelisplus.me##.adx
-pelisplus.me##.movie-warning
-pelisplus.me##.main-site
-pelisplus.so##.row
 pelisplus.so##.adsuppervideo
 pelisplus.so##.adsbelowvideo
-pelisplus.so##.cuadre_comments
-pelisplus.video##iframe[style="width: 100% !important; height: 190px !important; opacity: 1 !important; max-width: 420px !important; border: none !important; position: fixed !important; display: block !important; z-index: 2147483647 !important; left: auto !important; right: 0px !important; top: 15px !important; bottom: auto !important;"]
-pinflix.com##.overlay-content
-pivigames.blog##.code-block-5
+pelisplus.so##.ads_header
 pivigames.blog##.wpb_raw_html
-pivigames.blog##.wpcnt
-pivigames.blog###vi-smartbanner
-pivigames.blog###cmpbox
-playforceone.com###cookiePopupSnippet
-playpaste.com##.mb-4
-playpaste.com##.mt-4
-playsexgames.xxx##.widget
-poringa.net##.hook
-poringa.net##.var-message
-porngames.com##div[style="bottom: 0px; right: 0px; position: fixed; z-index: 100; cursor: pointer;"]
-porngem.com##.top-sponsor
-porngem.com##.bottom-b-s
-porngem.com###PG-Nat2
-porngem.com##.video-right
-porngem.com##.fp-player iframe
-pornhub.com##body div cddei
-pornhub.com###welcome
-pornhub.com##.js-underplayerAd
-pornhub.com##.video-wrapper .clear:nth-of-type(3)
-pornhub.com##.logInHotContainer
-pornhub.com##li[class="sniperModeEngaged alpha"]
-pornhub.com###videoSearchResult .sniperModeEngaged
-pornhub.com###vpContentContainer .clearfix div
-pornhub.com##.nf-videos .sectionWrapper .sectionWrapper
-pornhub.com##.abAlertShown
-pornhub.com###under-player-comments
-pornhub.com##.footer
-pornhub.com###hd-rightColVideoPage
-pornicom.com##.thumb_spots
-pornicom.com###pre-ad
-pornicom.com##.video_comments
-pornid.xxx##.rsidebar-spots-holder
-pornid.xxx##.wrap-cs
-pornid.xxx##.spots-bottom
-pornogratisdiario.com##.bnfo
-pornogratisdiario.com##.sidebar
-pornogratisdiario.com###cookiescript_wrapper
-pornxs.com##div [data-ad-index-parent]
-pornxs.com##.notify_adblock
-pornxs.com##.notify_cookie
-powv1deo.cc###oly
-pslfive.com##iframe[scrolling="no"]
-publicdomainvectors.org##.sponsored-main-detail .istock-main-detail
+pivigames.blog##.gp-sidebar .widget_text
+pivigames.blog###cookie-law-info-bar
+publico.es##.pbfooter-main
 publico.es##.pb-ads
-publico.es##div[data-id="sticky-bottom-unete"]
-publico.es##.header-msg-link
-pussyspace.net##.moretab div span
-pussyspace.net##.mainBox .mcbox div div div div span
-pussyspace.net##.not_first
-pussyspace.net##.livecam_4items_box
-redhat.com##.truste_box_overlay
-redhat.com##.truste_overlay
-redwap.me###right_col
-reloj-alarma.es###pnl-neon
-repelis.io##div[style="min-height: 50px"]
-repelis.io###buttons
-repelis.io##.K3m7L
-repelis.io##._2ahv0
-repelis.io##._2wa7P
-repelis24.is##.cobe
-repelishd.me##.sidebar.scrolling.mCustomScrollbar._mCS_2.mCS-autoHide.mCS_no_scrollbar
-revistagq.com##div[data-test-id="AdBannerWrapper"]
-revistagq.com###onetrust-consent-sdk
-salamanca24horas.com##.front_widget_20bottom
-salamanca24horas.com###layer_418801
-salamanca24horas.com###taboola-below-article-thumbnails
-savefrom.net##.h10__install_btn_box
-see.xxx##.vda-item
-seriescube.pw###media_image-3
-seriescube.pw##.dt_social_single
-seriescube.pw##.dtw_socialbox
-seriesflix.io###comments
-seriesflv.me##.adx
-seriesmanta.in###ad
-seriesmetro.com###text-2
-sextubeweb.com##.ave-pl
-sexu.com##.player-related
-sexvid.xxx##.download_link
-sexvid.xxx##.intro
-sexvid.xxx##.spots_thumbs
-sexvid.xxx###banner_video
+reloj-alarma.es###pnl-ne0n
+salamanca24horas.com###didomi-host
+salamanca24horas.com##.cscontent .row-top-banners
+salamanca24horas.com##.c-banner
+seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
-sheshaft.com###video_comments_video_comments
-shon.xyz, shink.me##iframe[scrolling="no"]
-shorten.sh##.banner-inner
-shorten.sh###cookie-pop
-smashmexico.com.mx##.teads-inread
 soundcloud.com###onetrust-consent-sdk
-spankwire.com###js-react-header-box
-spankwire.com##.sc-iAyFgw
-spankwire.com##.columns__right
-spankwire.com##.sc-esoVGF .sc-cAJUJo
-spankwire.com###js-react-player-ad-under
-spankwire.com##[data-class=vjs-inplayer-overlay]
-spankwire.com###sw-abMessage
-speedtest.net##body iframe
-speedtest.net##.eot-box-wrapper
-speedtest.net###_evidon-background
-stickpng.com##.ad
-streamp1ay.cc##.ad
-studio.youtube.com##ytcp-video-metadata-editor-advanced .input-container:nth-child(9)
-studio.youtube.com##ytcp-video-metadata-editor-advanced > .paid-promotion
-studio.youtube.com##ytcp-video-metadata-editor-advanced .input-container:nth-child(5)
-studio.youtube.com##ytcp-video-metadata-editor-advanced > #language-subtitles-cc
-studio.youtube.com##ytcp-video-metadata-editor-advanced .input-container:nth-child(6)
-studio.youtube.com##ytcp-audience-picker > #made-for-kids-rating-container, ytcp-audience-picker > .mfk-infobox-container, ytcp-audience-picker > .mfk-description, ytcp-audience-picker > .radio-button-title
-systemrequirementslab.com###nn_player_wrapper
-systemrequirementslab.com##.app_gdpr--2k2uB
-takvim.com.tr##.pageSkinRight
-takvim.com.tr##.pageSkinLeft
-takvim.com.tr##.billBoardFrame
-takvim.com.tr###cornerstick
-takvim.com.tr##.adtech
-takvim.com.tr###CybotCookiebotDialog
+speedtest.net###_evidon-barrier-wrapper
 tecnotutoshd.net##.ads_1
-thegolfwire.com##.pum-overlay
-timeanddate.com###mpo
-tnaflix.com##.zAfterPagination
-tnaflix.com##.rightBarBannersx 
-tnaflix.com###mewUnd
-tnaflix.com###zoneInPlayer
-torlock.com##iframe[sandbox="allow-popups allow-scripts allow-same-origin"]
-torlock.com##.hidden-xs
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
-tube1st.com###close
-tube8.com,tube8.es###announcement_ticker
-tube8.com,tube8.es##.rightColBanner
-tube8.com,tube8.es##.underplayer_ad
-tube8.com,tube8.es##.gridList .gridBanner
-tube8.com,tube8.es##.scale_4k
-tube8.com,tube8.es###catFishBanner
-tube8.com,tube8.es###videoWatchPage main aside
-tube8.com,tube8.es###adBlockAlertWrap
-tube8.com,tube8.es###footer-wrapper
 twitch.tv##div[data-test-selector="channel-leaderboard-container"]
-txxx.com##.oiiodp
-txxx.com##.right div
-txxx.com##.video-page__content .rightt
-u.sanoybonito.club##.banner-inner
-uiporn.com##.wrapper div[style="text-align: right"]
-uploaded.net###ad-group-download-bottom
-uploady.io##.gads
-uploady.io#@##ads
-uptobox.com##ins[style="text-decoration: none;"]
 uptodown.com##.advertisement
 uptodown.com###header_ad
 veopornogratis.xxx##.pagecnt div
@@ -419,12 +279,6 @@ verpelisonline.tv##.Info_holder
 videosection.com##.video-item--adv
 videospornogratisx.net##.fright div:first-of-type
 videospornogratisx.net###pSponsor
-vidoza.net##iframe:last-of-type
-vidoza.net##.asg-container
-vidoza.net##.asg-interstitial
-vidoza.net##.in-block
-vidoza.net###videotop
-vidoza.net##.prevent-first-click
 virtualpiano.net###cc-banner-wrap
 vk.com###cookies_policy_wrap
 voglioporno.com###footer-iframe
@@ -484,10 +338,6 @@ www.youtube.com##ytd-display-ad-renderer
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
 www3.animeflv.net##.Sidebar > br
-www70.zippyshare.com###lrbox .center
-www70.zippyshare.com##.center_ad
-www70.zippyshare.com###qrCode
-www70.zippyshare.com##.slickbox
 xbabe.com##.bnnrs-aside
 xbabe.com##.bnnrs-bottom
 xbabe.com###XB-Native-Bottom-4x3
@@ -521,12 +371,6 @@ yahoo.com###YDC-Col2
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
 yiminshum.com##.qc-cmp-ui-container
-youporn.com##.playWrapper aside
-youporn.com##footer div:first-of-type
-youporn.com##.grid-sub-row-2
-youporn.com##.e8-column
-youporn.com##.warning_block
-youporn.com###js_euCookieModal
 youtube.com###masthead-ad
 youtube.com##.video-ads
 youtube.com##ytd-promoted-sparkles-text-search-renderer
@@ -537,9 +381,6 @@ yts.mx##.nbox-bordered
 yts.mx##div[class="hidden-xs hidden-sm"]
 yts.mx##.addthis-smartlayers
 yts.mx##.bottom-info
-zapier.com##.topbar-holder
-zmovs.com##a[style="opacity: 1; position: fixed; top: auto; bottom: 120px; right: 20px; left: auto;"]
-zmovs.com##a[style="opacity: 1; position: fixed; top: auto; bottom: 20px; right: 20px; left: auto;"]
 zona-leros.net##.adsbyvli
 zona-leros.net##.Comprar
 zona-leros.net##.content_store
