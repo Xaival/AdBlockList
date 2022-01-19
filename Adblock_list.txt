@@ -83,6 +83,10 @@ celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
 commentpicker.com##.ezoic-ad
 computerhoy.com##.ad-container
+conpilar.es##.ezoic-ad
+conpilar.es##.ezoic-ad-adaptive
+conpilar.es###ezmobfooter
+conpilar.es###ez-cookie-dialog-wrapper
 convertio.co##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
 cumlouder.com##.smt-bottom
@@ -101,6 +105,7 @@ downdetector.es###_evidon-barrier-wrapper
 eleconomista.es##.banners-superiores2
 elespanol.com##.adv
 elespanol.com##.msg-footer
+elpais.com##.ad
 empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
@@ -125,7 +130,6 @@ facuchogames.com###cookieChoiceInfo
 forums.unrealengine.com###onetrust-banner-sdk
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
-elpais.com##.ad
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##.droitAjout
@@ -232,6 +236,7 @@ online-convert.com###qg-toast
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
+giveaway.tickcoupon.com##.sp-native-popover
 outlook.live.com##._3_hHr3kfEhbNYRFM5YJxH9
 p.clk.ink###google-captcha-popup-54673
 packsmega.info##.widget_custom_html
@@ -312,10 +317,6 @@ redhat.com##.truste_overlay
 redwap.me###right_col
 reloj-alarma.es###pnl-neon
 repelis.io##div[style="min-height: 50px"]
-conpilar.es###ez-cookie-dialog-wrapper
-conpilar.es##.ezoic-ad
-conpilar.es###ezmobfooter
-conpilar.es##.ezoic-ad-adaptive
 repelis.io###buttons
 repelis.io##.K3m7L
 repelis.io##._2ahv0
