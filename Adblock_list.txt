@@ -252,6 +252,7 @@ pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
 pivigames.blog##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
+tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 pivigames.blog###cookie-law-info-bar
 publico.es##.pbfooter-main
 publico.es##.pb-ads
