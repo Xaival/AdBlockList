@@ -110,15 +110,15 @@ empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
+es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
 es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
+es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.pornhub.com,pornhub.com##video-element #pb_template
 es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
 es.pornhub.com,pornhub.com##.sniperModeEngaged
 es.pornhub.com,pornhub.com##.cookiesBanner
-es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
-es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.redtube.com###below_footer_ad_content
 es.redtube.com##iframe[data-spot-id]
 es.redtube.com###video_right_col
@@ -206,6 +206,9 @@ kennysoft.blogspot.com##.optiads-native
 kennysoft.blogspot.com##.cookie-choices-inner
 lacasadeel.net##.td-a-rec
 lacasadeel.net###webpushr-prompt-wrapper
+larazon.es##.article-body section aside
+larazon.es##.ad
+larazon.es##.content__ad
 leeporn.com##body>center
 leeporn.com##.right-player-col
 leeporn.com##.bns-bl
@@ -252,23 +255,24 @@ pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
 pivigames.blog##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
-tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 pivigames.blog###cookie-law-info-bar
 publico.es##.pbfooter-main
 publico.es##.pb-ads
 reloj-alarma.es###pnl-ne0n
-salamanca24horas.com###didomi-host
-salamanca24horas.com##.cscontent .row-top-banners
 salamanca24horas.com##.c-banner
+salamanca24horas.com##.cscontent .row-top-banners
+salamanca24horas.com###didomi-host
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 soundcloud.com###onetrust-consent-sdk
 speedtest.net###_evidon-barrier-wrapper
 tecnotutoshd.net##.ads_1
+tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
+areajugones.sport.es##.publicidad
 twitch.tv##div[data-test-selector="channel-leaderboard-container"]
 uptodown.com##.advertisement
 uptodown.com###header_ad
