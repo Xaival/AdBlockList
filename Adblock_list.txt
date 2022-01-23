@@ -131,7 +131,6 @@ es.xhamster.com##.wio-xspot-container
 es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
-facuchogames.com###cookieChoiceInfo
 forums.unrealengine.com###onetrust-banner-sdk
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
@@ -215,7 +214,6 @@ leeporn.com##.bns-bl
 lightpdf.com##.education
 lightpdf.com##.chrome-app
 linkedin.com##div[data-test-global-alert="0"]
-luisitogeek.com###cookieChoiceInfo
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
 maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
@@ -238,7 +236,6 @@ namegeneratorfun.com###consent
 newpct.me##.ficha_descarga_opciones
 nosteam.ro###fanback
 notus.com.mx##.stream-item
-nuestrotecnomundotutoriales.blogspot.com###cookieChoiceInfo
 nuestrotecnomundotutoriales.blogspot.com##header
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
 online-convert.com###qg-toast
@@ -266,126 +263,47 @@ seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 soundcloud.com###onetrust-consent-sdk
 speedtest.net###_evidon-barrier-wrapper
-tecnotutoshd.net##.ads_1
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 areajugones.sport.es##.publicidad
-twitch.tv##div[data-test-selector="channel-leaderboard-container"]
-uptodown.com##.advertisement
 uptodown.com###header_ad
-veopornogratis.xxx##.pagecnt div
-veopornogratis.xxx##div[style="text-align:center;background:#f60062;padding:5px 0;font-size:18px;"]
-veopornogratis.xxx###text-4
 verpeliculasultra.com##.fstory-rating-left
-verpelisonline.tv##.Info_holder
-videosection.com##.video-item--adv
-videospornogratisx.net##.fright div:first-of-type
-videospornogratisx.net###pSponsor
-virtualpiano.net###cc-banner-wrap
 vk.com###cookies_policy_wrap
-voglioporno.com###footer-iframe
-voglioporno.com###video-right
-voyeurhit.com##.header__cookie
-w2g.tv###w2g-doit-2
-w2g.tv##.w2g-center-ad
-w2g.tv##.w2g-center-plus
-w3schools.com###sncmp-container
-w3schools.com#$##snigel-cmp-framework
-w3toys.com##.sumome-smartbar-popup
-watch2gether.com##.w2g-square-ad
-wikifeet.com##div[data-endpoint="//trends.revcontent.com"]
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
-www.3djuegos.com##div[data-label-text="AD"]
-www.adslzone.net##p[style="display:inline-block; width:100%;"]
-www.apotoxinfansub.com##.alert-danger
-www.crehana.com##div[data-test-id="ChatWidgetWindow"]
-www.crunchyroll.com###template_body #showmedia .right
-www.cuevana-3.wtf##.sidebar #block-3
-www.elamigos-games.com##.content_store
-www.elamigos-games.com##.alert-warning
-www.elamigos-games.com##.chatbro_container
-www.elmundo.es#@##didomi-host
-www.eroticbeauties.net###chatWindow
-www.facebook.com##a[aria-label="Enlace del anunciante"]
-www.facebook.com##div[data-pagelet="RightRail"] > div > span
+writers-den.pantomimepony.co.uk###ad_leaderboard
+www.3djuegos.com###didomi-host
+www.3djuegos.com##.tac.ad
+crunchyroll.com###onetrust-consent-sdk
+crunchyroll.com##div[data-role="opt-in-banner"]
+crunchyroll.com##.game-banner-wrapper
+cuevana-3.wtf##aside>a
+www.elamigos-games.com###gdpr-consent-tool-wrapper
+elmundo.es###didomi-host
+facebook.com##div[data-pagelet="RightRail"]>div:first-child
 www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com###chp_ads_blocker-overlay
-www.gamesofdesire.com##.top_banner
-www.gamesofdesire.com##.vert_banner
-www.gotporn.com##.external-floater-ad-wrap
+www.fcportables.com##.bs-wrap-gdpr-law
 www.humblebundle.com###_evidon_banner
 www.indiegala.com###cookie-policy-popup
-www.katestube.com###pre-adv
 www.metropoliabierta.com#@##didomi-host
-www.newgrounds.com##.ng-ad-container-300-250
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
-www.perfectgirls.net###hat_message
-www.perfectgirls.net##.adv_block
-www.photopea.com###onetrust-consent-sdk
-www.pornhd.com##section aside[class="hidden-xs hidden-sm next-to-video"]
-www.pornhd.com##.video-player-overlay
-www.programiz.com##.compiler-header-ad
-www.springhole.net###ez-cookie-dialog-wrapper
-www.tecnotutoshd.net###arlinablock
+www.photopea.com###cap
+www.photopea.com##body>.flexrow>div:last-child
+tecnotutoshd.net###arlinablock
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
-www.uiporn.com##.bottom-b-s
-www.uiporn.com##.video-right
-www.uiporn.com##.top-sponsor
-www.uiporn.com##div[style="display: block; width: 100%; max-width: 480px; position: relative; overflow: hidden; margin: 0px auto;"]
-www.uiporn.com##div[style="position: absolute; left: 0px; top: 0px; bottom: 0px; right: 0px; overflow: hidden; z-index: 160; background: transparent; display: block;"]
-www.vidcorntv.org##.sidebar#block-10
-www.wankoz.com###pre-adv
-www.youtube.com##ytd-display-ad-renderer
+vidcorntv.org##aside>a
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
-www3.animeflv.net##.Sidebar > br
-xbabe.com##.bnnrs-aside
-xbabe.com##.bnnrs-bottom
-xbabe.com###XB-Native-Bottom-4x3
-xbabe.com###XB-Native-Under-Player-6x1
-xbabe.com##.bnnrs-player
-xcafe.com##.sidebar
-xcafe.com##.footer-block
-xcafe.com##.nativeline
-xhamster.com##.promo-message__with-button
-xhamster.com##.xplayer-banner
-xhamster.com##.native-container
-xmovies8.si###upgrade_pop
-xmovies8.si##iframe[sandbox="allow-same-origin allow-scripts allow-popups allow-forms"]
-xnxx.com, xnxx.es###ad-footer
-xnxx.com, xnxx.es###remove-ads
-xnxx.com, xnxx.es###video-ad
-xnxx.com, xnxx.es###cookies-use-alert
-xnxxbest.pro##.video-aside
-xnxxbest.pro##.spots-section
-xnxxbest.pro###ts_ad_native_rw7m6
-xnxxbest.pro##.simpleToast
-xnxxhd.tv##.cnt-sidebar
-xsex.biz###myads
-xvideos.com,xvideos.es###video-ad
-xvideos.com###video-sponsor-links
-xvideos.com,xvideos.es###ad-footer
-xvideos.com##.thumb-ad
-xvideos.com###cookies-use-alert
-yahoo.com###YDC-Hero
-yahoo.com###YDC-Col2
+xhamster.com##footer
+xhamster.com##.wio-xplayer
+xhamster.com##.wio-xspb
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
-yiminshum.com##.qc-cmp-ui-container
-youtube.com###masthead-ad
 youtube.com##.video-ads
-youtube.com##ytd-promoted-sparkles-text-search-renderer
-youtube.com##ytd-search-pyv-renderer
-yoututosjeff.es###WgD
-yts.mx##.infobox-bordered
-yts.mx##.nbox-bordered
 yts.mx##div[class="hidden-xs hidden-sm"]
-yts.mx##.addthis-smartlayers
-yts.mx##.bottom-info
-zona-leros.net##.adsbyvli
-zona-leros.net##.Comprar
+zona-leros.net###gdpr-consent-tool-wrapper
 zona-leros.net##.content_store
