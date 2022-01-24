@@ -67,6 +67,7 @@ antena3.com##.ob-smartfeed-wrapper
 anysex.com##.main .content_right
 anysex.com##.movie .type2
 anysex.com###content .center *
+areajugones.sport.es##.publicidad
 as.com##.publi
 as.com##.banner_sup
 babestube.com##.viewlist .more-videos
@@ -89,6 +90,10 @@ conpilar.es###ezmobfooter
 conpilar.es###ez-cookie-dialog-wrapper
 convertio.co##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
+crunchyroll.com##.game-banner-wrapper
+crunchyroll.com##div[data-role="opt-in-banner"]
+crunchyroll.com###onetrust-consent-sdk
+cuevana-3.wtf##aside>a
 cumlouder.com##.smt-bottom
 cumlouder.com##.smt-promo
 deviants.com##.bottom-adv
@@ -105,6 +110,7 @@ downdetector.es###_evidon-barrier-wrapper
 eleconomista.es##.banners-superiores2
 elespanol.com##.adv
 elespanol.com##.msg-footer
+elmundo.es###didomi-host
 elpais.com##.ad
 empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
@@ -131,6 +137,7 @@ es.xhamster.com##.wio-xspot-container
 es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
+facebook.com##div[data-pagelet="RightRail"]>div:first-child
 forums.unrealengine.com###onetrust-banner-sdk
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
@@ -259,51 +266,45 @@ reloj-alarma.es###pnl-ne0n
 salamanca24horas.com##.c-banner
 salamanca24horas.com##.cscontent .row-top-banners
 salamanca24horas.com###didomi-host
+microsoft.com,live.xbox.com###uhfCookieAlert
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 soundcloud.com###onetrust-consent-sdk
 speedtest.net###_evidon-barrier-wrapper
+tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
-areajugones.sport.es##.publicidad
 uptodown.com###header_ad
 verpeliculasultra.com##.fstory-rating-left
+vidcorntv.org##aside>a
 vk.com###cookies_policy_wrap
-writers-den.pantomimepony.co.uk###ad_wideskyscraper
 writers-den.pantomimepony.co.uk###ad_leaderboard
-www.3djuegos.com###didomi-host
+writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
-crunchyroll.com###onetrust-consent-sdk
-crunchyroll.com##div[data-role="opt-in-banner"]
-crunchyroll.com##.game-banner-wrapper
-cuevana-3.wtf##aside>a
+www.3djuegos.com###didomi-host
 www.elamigos-games.com###gdpr-consent-tool-wrapper
-elmundo.es###didomi-host
-facebook.com##div[data-pagelet="RightRail"]>div:first-child
-www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com###chp_ads_blocker-overlay
+www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com##.bs-wrap-gdpr-law
 www.humblebundle.com###_evidon_banner
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
-www.photopea.com###cap
 www.photopea.com##body>.flexrow>div:last-child
-tecnotutoshd.net###arlinablock
+www.photopea.com###cap
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
-vidcorntv.org##aside>a
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
-xhamster.com##footer
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
+xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
 youtube.com##.video-ads
 yts.mx##div[class="hidden-xs hidden-sm"]
-zona-leros.net###gdpr-consent-tool-wrapper
 zona-leros.net##.content_store
+zona-leros.net###gdpr-consent-tool-wrapper
