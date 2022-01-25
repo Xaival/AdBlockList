@@ -54,6 +54,7 @@
 ###cookieChoiceInfo
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
+###didomi-host
 ##.user-comments
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
@@ -110,7 +111,6 @@ downdetector.es###_evidon-barrier-wrapper
 eleconomista.es##.banners-superiores2
 elespanol.com##.adv
 elespanol.com##.msg-footer
-elmundo.es###didomi-host
 elpais.com##.ad
 empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
@@ -236,6 +236,7 @@ mediafire.com##.DLExtraInfo-wrap
 megatube.xxx##.widget-connected
 megatube.xxx##.footer-margin
 megatube.xxx##.content--right-ads .place
+microsoft.com,live.xbox.com###uhfCookieAlert
 mrdeepfakes.com##.block-video .table
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
@@ -265,8 +266,6 @@ publico.es##.pb-ads
 reloj-alarma.es###pnl-ne0n
 salamanca24horas.com##.c-banner
 salamanca24horas.com##.cscontent .row-top-banners
-salamanca24horas.com###didomi-host
-microsoft.com,live.xbox.com###uhfCookieAlert
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 soundcloud.com###onetrust-consent-sdk
@@ -284,7 +283,6 @@ vk.com###cookies_policy_wrap
 writers-den.pantomimepony.co.uk###ad_leaderboard
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
-www.3djuegos.com###didomi-host
 www.elamigos-games.com###gdpr-consent-tool-wrapper
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
@@ -305,6 +303,7 @@ xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
 youtube.com##.video-ads
+youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
 zona-leros.net###gdpr-consent-tool-wrapper
