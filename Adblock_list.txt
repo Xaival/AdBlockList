@@ -2,8 +2,8 @@
 ! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
 ! Version: 000000000001
 ! Title: AdBlockList
-! Expires: 1 hours (update frequency)
-! Last modified: 24 Jan 2022 7:30 UTC
+! Expires: 7 days (update frequency)
+! Last modified: 02 Feb 2022 22:44 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
