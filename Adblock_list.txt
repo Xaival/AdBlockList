@@ -117,6 +117,7 @@ empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
 es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
+es.pornhub.com,pornhub.com##.abovePlayer
 es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
@@ -302,8 +303,8 @@ xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
-youtube.com##.video-ads
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
+youtube.com##.video-ads
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
 zona-leros.net###gdpr-consent-tool-wrapper
