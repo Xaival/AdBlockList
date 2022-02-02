@@ -287,6 +287,7 @@ www.3djuegos.com##.tac.ad
 www.elamigos-games.com###gdpr-consent-tool-wrapper
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
+diariodesevilla.es###didomiConsentOverlay
 www.fcportables.com##.bs-wrap-gdpr-law
 www.humblebundle.com###_evidon_banner
 www.indiegala.com###cookie-policy-popup
