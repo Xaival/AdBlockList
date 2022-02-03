@@ -2,7 +2,7 @@
 ! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
 ! Version: 000000000001
 ! Title: AdBlockList
-! Expires: 7 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Last modified: 02 Feb 2022 22:44 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
