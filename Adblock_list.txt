@@ -84,6 +84,7 @@ celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
 commentpicker.com##.ezoic-ad
+commentpicker.com###ez-cookie-dialog-wrapper
 computerhoy.com##.ad-container
 conpilar.es##.ezoic-ad
 conpilar.es##.ezoic-ad-adaptive
@@ -99,6 +100,8 @@ cumlouder.com##.smt-bottom
 cumlouder.com##.smt-promo
 deviants.com##.bottom-adv
 deviants.com##.twocolumns .aside
+diariodesevilla.es##.ad-v
+diariodesevilla.es###didomiConsentOverlay
 diariosanitario.com##.sidebar-narrow
 diariosanitario.com##.e3lan-post
 diariosanitario.com##.home-ads
@@ -117,7 +120,6 @@ empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
 es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
-es.pornhub.com,pornhub.com##.abovePlayer
 es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
@@ -125,6 +127,7 @@ es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.pornhub.com,pornhub.com##video-element #pb_template
 es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
 es.pornhub.com,pornhub.com##.sniperModeEngaged
+es.pornhub.com,pornhub.com##.abovePlayer
 es.pornhub.com,pornhub.com##.cookiesBanner
 es.redtube.com###below_footer_ad_content
 es.redtube.com##iframe[data-spot-id]
@@ -287,8 +290,6 @@ www.3djuegos.com##.tac.ad
 www.elamigos-games.com###gdpr-consent-tool-wrapper
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
-diariodesevilla.es###didomiConsentOverlay
-diariodesevilla.es##.ad-v
 www.fcportables.com##.bs-wrap-gdpr-law
 www.humblebundle.com###_evidon_banner
 www.indiegala.com###cookie-policy-popup
