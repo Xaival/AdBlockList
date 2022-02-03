@@ -37,34 +37,39 @@
 ##.eww
 ##tbl-next-up
 ###ni-overlay
-##.adtrue-div
 ##.block-video .table
+##.adtrue-div
 ##.content-kuss
 ##.sponsor
 ##.widget_text
 ##div[style="overflow: visible; visibility: visible;"]
-##.iRx9_wrt
 ###pb_template
+##.iRx9_wrt
 ##html > iframe
 ##.wrapper__related-sites
 ###onetrust-banner-sdk
-##.cookies-policy-block
+###ez-cookie-dialog-wrapper
+###gdpr-consent-tool-wrapper
+###onetrust-consent-sdk
+###_evidon-barrier-wrapper
 ###cookie-law-info-bar
-###cookie-policy
+##.cookies-policy-block
 ###cookieChoiceInfo
+###didomi-host
+###cookie-policy
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
-###didomi-host
 ##.user-comments
+###cookiedata
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##div[data-banner-placement="under_video"]
+allpeliculas.info###banner_publi
 anadoludabugun.com.tr##.banner
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
-animefenix.com##.adtrue-div
-antena3.com##.ob-smartfeed-wrapper
+antena3.com, cadenaser.com##.ob-smartfeed-wrapper
 anysex.com##.main .content_right
 anysex.com##.movie .type2
 anysex.com###content .center *
@@ -79,23 +84,19 @@ blizzboygames.net##.vc_col-sm-12
 blizzboygames.net###gp-sidebar .widget_text
 bravoporn.com##.box-left
 bravoporn.com###rvt-inline-0
-cadenaser.com##.ob-smartfeed-wrapper
 celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
-commentpicker.com##.ezoic-ad
-commentpicker.com###ez-cookie-dialog-wrapper
+commentpicker.com,conpilar.es##.ezoic-ad
 computerhoy.com##.ad-container
-conpilar.es##.ezoic-ad
 conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
-conpilar.es###ez-cookie-dialog-wrapper
-convertio.co##.chrome-app
+convertio.co,lightpdf.com##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
-crunchyroll.com###onetrust-consent-sdk
-cuevana-3.wtf##aside>a
+cuevana-3.wtf, vidcorntv.org##aside>a
+cuevana3.io###mdl-ads
 cumlouder.com##.smt-bottom
 cumlouder.com##.smt-promo
 deviants.com##.bottom-adv
@@ -109,12 +110,11 @@ diariosanitario.com##.bannersubheader
 diariosanitario.com##.cabecera
 diariosanitario.com##.e3lan-bottom
 digitalpolicylaw.com##.td-header-sp-recs
+dilo.nu##div[data-darkreader-inline-bgimage]
 discord.com##.notice-3bPHh-
-downdetector.es###_evidon-barrier-wrapper
 eleconomista.es##.banners-superiores2
-elespanol.com##.adv
 elespanol.com##.msg-footer
-elpais.com##.ad
+elpais.com,larazon.es##.ad
 empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
 empflix.com##.withRightBar div[style="cursor: pointer;"]
@@ -127,22 +127,19 @@ es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.pornhub.com,pornhub.com##video-element #pb_template
 es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
 es.pornhub.com,pornhub.com##.sniperModeEngaged
-es.pornhub.com,pornhub.com##.abovePlayer
+es.pornhub.com,pornhub.com,es.redtube.com##.abovePlayer
 es.pornhub.com,pornhub.com##.cookiesBanner
 es.redtube.com###below_footer_ad_content
 es.redtube.com##iframe[data-spot-id]
 es.redtube.com###video_right_col
 es.redtube.com##.ads_under_player
-es.redtube.com###pb_template
 es.redtube.com###block_hottest_videos_by_country li:first-child
-es.redtube.com##.abovePlayer
 es.redtube.com###eu_cookie_disclaimer
 es.xhamster.com##.wio-xspot-container
 es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
-forums.unrealengine.com###onetrust-banner-sdk
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
@@ -155,6 +152,8 @@ gamestorrents.fm##.principio_plugin
 gamezfull.com##.blocks .block .block-text
 garticphone.com###cmpbox
 giveaway.tickcoupon.com##.sp-native-popover
+gnula.red##.top-content
+gnulahd.online,pelispedia.top##.alert
 google.com, google.es###taw
 google.com, google.es###gws-output-pages-elements-homepage_additional_languages__als
 gotporn.com##.sidebar
@@ -168,17 +167,15 @@ happy-landing.net##.quads-location
 haya.es###CybotCookiebotDialog
 hclips.com##.video-page__item *
 hclips.com##.__nat--
-hclips.com##.footer-banners *
-hclips.com##.video-page__content .right
-hclips.com##.partners-wrap
-hclips.com##.cookies-policy-block
+hclips.com, hdzog.com##.footer-banners *
+hclips.com, hotmovs.com##.video-page__content .right
+hclips.com, hotmovs.com##.partners-wrap
+hdfull-v1.com##.btn.snd[role="button"]
 hdsexvideos.pro##iframe[marginheight="0"]
 hdsexvideos.pro##.camitems
 hdsexvideos.pro##.mult
-hdzog.com##.fiioed *
 hdzog.com##.header__cookie
 hdzog.com##.video-page__banners *
-hdzog.com##.footer-banners *
 hellporno.com##.block-title
 hellporno.com##.footer-advertisements
 hellporno.com##.view-video-advertisements
@@ -190,9 +187,7 @@ hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
 hotmovs.com##.app-banners *
-hotmovs.com##.fiioed *
-hotmovs.com##.video-page__content .right
-hotmovs.com##.partners-wrap
+hotmovs.com, hdzog.com##.fiioed *
 ibit.am## iframe
 igg-games.com##.games-after-content
 igg-games.com##.textwidget
@@ -217,20 +212,17 @@ kennysoft.blogspot.com##.cookie-choices-inner
 lacasadeel.net##.td-a-rec
 lacasadeel.net###webpushr-prompt-wrapper
 larazon.es##.article-body section aside
-larazon.es##.ad
 larazon.es##.content__ad
-leeporn.com##body>center
+leeporn.com,mature-mom.tube##body>center
 leeporn.com##.right-player-col
 leeporn.com##.bns-bl
 lightpdf.com##.education
-lightpdf.com##.chrome-app
 linkedin.com##div[data-test-global-alert="0"]
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
 maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
-mature-mom.tube##body>font[color="black"]
-mature-mom.tube##body>center
 mature-mom.tube##.thumbnails-wrapper iframe
+mature-mom.tube##body>font[color="black"]
 mature-mom.tube##.spot-section .spot
 mazterize.com###dl-g
 mediafire.com###div-gpt-ad-1583943738910-0
@@ -241,7 +233,6 @@ megatube.xxx##.widget-connected
 megatube.xxx##.footer-margin
 megatube.xxx##.content--right-ads .place
 microsoft.com,live.xbox.com###uhfCookieAlert
-mrdeepfakes.com##.block-video .table
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
@@ -258,13 +249,18 @@ outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
 peliculas24.me##.content-kuss-ads
 peliculas24.me##div[itemprop="description"] h3
+pelis-123.org##.head-main-nav i
+pelis24.in##.post a[rel="noopener"]
+pelis24.in##.post footer
+pelisflix.vip##.notes
+pelispedia.io##.cpa.front-content
 pelisplus.me##.adx
 pelisplus.so##.adsuppervideo
 pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
+pelisxd.com##body>:not(#aa-wp)
 pivigames.blog##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
-pivigames.blog###cookie-law-info-bar
 publico.es##.pbfooter-main
 publico.es##.pb-ads
 reloj-alarma.es###pnl-ne0n
@@ -272,8 +268,6 @@ salamanca24horas.com##.c-banner
 salamanca24horas.com##.cscontent .row-top-banners
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
-soundcloud.com###onetrust-consent-sdk
-speedtest.net###_evidon-barrier-wrapper
 tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
@@ -282,12 +276,14 @@ tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 uptodown.com###header_ad
 verpeliculasultra.com##.fstory-rating-left
-vidcorntv.org##aside>a
+verteleseriesonline.com##.postbody .widget-title
+verteleseriesonline.com##.postbody .textwidget.custom-html-widget
+verteleseriesonline.com##.sd + .whites > :not(#adv2)
+verteleseriesonline.com###demo.megavid > :not(.video-nav, .video-content)
 vk.com###cookies_policy_wrap
 writers-den.pantomimepony.co.uk###ad_leaderboard
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
-www.elamigos-games.com###gdpr-consent-tool-wrapper
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com##.bs-wrap-gdpr-law
@@ -310,9 +306,3 @@ youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-c
 youtube.com##.video-ads
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
-gnulahd.online,pelispedia.top##.alert
-dilo.nu##div[data-darkreader-inline-bgimage]
-###cookiedata
-gnula.red##.top-content
-pelisflix.vip##.notes
-zona-leros.net###gdpr-consent-tool-wrapper
