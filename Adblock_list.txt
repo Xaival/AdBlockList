@@ -310,4 +310,9 @@ youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-c
 youtube.com##.video-ads
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
+gnulahd.online,pelispedia.top##.alert
+dilo.nu##div[data-darkreader-inline-bgimage]
+###cookiedata
+gnula.red##.top-content
+pelisflix.vip##.notes
 zona-leros.net###gdpr-consent-tool-wrapper
