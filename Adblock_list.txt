@@ -111,6 +111,9 @@ diariosanitario.com##.cabecera
 diariosanitario.com##.e3lan-bottom
 digitalpolicylaw.com##.td-header-sp-recs
 dilo.nu##div[data-darkreader-inline-bgimage]
+mejortorrentes.org###sec_main > center, #main_td_center_center > center
+mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_center_center2 > table:first-child + br
+mejortorrentes.org###sec_main > table[border="0"]
 discord.com##.notice-3bPHh-
 eleconomista.es##.banners-superiores2
 elespanol.com##.msg-footer
