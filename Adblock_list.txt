@@ -275,6 +275,7 @@ tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
+fanatical.com##.cookie-collapsible
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 uptodown.com###header_ad
