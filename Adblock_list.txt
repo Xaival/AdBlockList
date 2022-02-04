@@ -13,10 +13,11 @@
 ||repelisgooo.com/srv-pv/tag-1330047
 ||www.pornhub.com/_xa/ads
 ||pasfox.com/js/buscador/jquery.js
-||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
-||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
+||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+||vfxdownload.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||cursos.mejorcodigo.net/res/js/detector.js
+||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 @@||sdk.privacy-center.org
 ##.adv-aside
 ##.ads
@@ -29,6 +30,12 @@
 ##a[aria-label="link to donation page"]
 ##.adsbygoogle
 ##html>iframe
+##.block-video .table
+##.adtrue-div
+##.content-kuss
+##.sponsor
+##.widget_text
+##div[style="overflow: visible; visibility: visible;"]
 ##.aan_fake
 ##.bottom-banners
 ##.aan_fake__video-units
@@ -37,21 +44,10 @@
 ##.eww
 ##tbl-next-up
 ###ni-overlay
-##.block-video .table
-##.adtrue-div
-##.content-kuss
-##.sponsor
-##.widget_text
-##div[style="overflow: visible; visibility: visible;"]
 ###pb_template
 ##.iRx9_wrt
 ##html > iframe
 ##.wrapper__related-sites
-###onetrust-banner-sdk
-###ez-cookie-dialog-wrapper
-###gdpr-consent-tool-wrapper
-###onetrust-consent-sdk
-###_evidon-barrier-wrapper
 ###cookie-law-info-bar
 ##.cookies-policy-block
 ###cookieChoiceInfo
@@ -59,16 +55,25 @@
 ###cookie-policy
 ##cloudflare-app
 ##div[aria-label="cookieconsent"]
+###_evidon_banner
+###onetrust-banner-sdk
+###ez-cookie-dialog-wrapper
+###gdpr-consent-tool-wrapper
+###onetrust-consent-sdk
+###_evidon-barrier-wrapper
 ##.user-comments
 ###cookiedata
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##div[data-banner-placement="under_video"]
+adxgames.net##.gp-blog-columns-2
 allpeliculas.info###banner_publi
 anadoludabugun.com.tr##.banner
 analdin.com##.footer-ads
 analdin.com##.na
 analdin.com###asg-video-0
+animefenix.com##a[href="https://hentaini.com/"]
+animeflv.net##body > .FollowUs
 antena3.com, cadenaser.com##.ob-smartfeed-wrapper
 anysex.com##.main .content_right
 anysex.com##.movie .type2
@@ -93,6 +98,7 @@ conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
 convertio.co,lightpdf.com##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
+crunchyroll.com###message_box
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
 cuevana-3.wtf, vidcorntv.org##aside>a
@@ -111,9 +117,6 @@ diariosanitario.com##.cabecera
 diariosanitario.com##.e3lan-bottom
 digitalpolicylaw.com##.td-header-sp-recs
 dilo.nu##div[data-darkreader-inline-bgimage]
-mejortorrentes.org###sec_main > center, #main_td_center_center > center
-mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_center_center2 > table:first-child + br
-mejortorrentes.org###sec_main > table[border="0"]
 discord.com##.notice-3bPHh-
 eleconomista.es##.banners-superiores2
 elespanol.com##.msg-footer
@@ -143,6 +146,7 @@ es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
+fanatical.com##.cookie-collapsible
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
@@ -185,6 +189,7 @@ hellporno.com##.view-video-advertisements
 hellporno.com##.bnnrs-player
 hellporno.net##.block-banner 
 hentaini.com##.mx-auto > a
+hentaini.com##.container:nth-of-type(4) .row div[xs="6"]:first-of-type
 heureporno.com###video-right
 hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
@@ -196,7 +201,7 @@ igg-games.com##.games-after-content
 igg-games.com##.textwidget
 igg-games.com###widget-advads_ad_widget-3
 iloveimg.com###toast-container
-img2go.com##div[role="alert"]
+img2go.com, animeblix.com, animeki.net##div[role="alert"]
 instagram.com##._8UZ6e
 investing.com##.midHeader
 investing.com###hpAdVideo
@@ -206,6 +211,7 @@ its.porn##.spot_large
 its.porn###comment_section
 jizzbunker.com##.panel-body
 jizzbunker.com##.panel-rklcontent-wide
+jkanime.video##body>div[style="text-align: center;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
 kennysoft.blogspot.com##.skin-right
@@ -235,21 +241,27 @@ mediafire.com##.DLExtraInfo-wrap
 megatube.xxx##.widget-connected
 megatube.xxx##.footer-margin
 megatube.xxx##.content--right-ads .place
+mejortorrentes.org###sec_main > table[border="0"]
+mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_center_center2 > table:first-child + br
+mejortorrentes.org###sec_main > center, #main_td_center_center > center
 microsoft.com,live.xbox.com###uhfCookieAlert
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
+netu.io##.eupopup-color-default
 newpct.me##.ficha_descarga_opciones
 nosteam.ro###fanback
 notus.com.mx##.stream-item
 nuestrotecnomundotutoriales.blogspot.com##header
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
 online-convert.com###qg-toast
+origin.com###consent_blackbar
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
+pastebin.com##.popup-container
 peliculas24.me##.content-kuss-ads
 peliculas24.me##div[itemprop="description"] h3
 pelis-123.org##.head-main-nav i
@@ -262,7 +274,7 @@ pelisplus.so##.adsuppervideo
 pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
 pelisxd.com##body>:not(#aa-wp)
-pivigames.blog##.wpb_raw_html
+pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
 publico.es##.pbfooter-main
 publico.es##.pb-ads
@@ -275,10 +287,12 @@ tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
-fanatical.com##.cookie-collapsible
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
+tuhentaionline.com##body > div:not(.wrapper)
 uptodown.com###header_ad
+verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
+verdragonball.online##.sidebar .widget
 verpeliculasultra.com##.fstory-rating-left
 verteleseriesonline.com##.postbody .widget-title
 verteleseriesonline.com##.postbody .textwidget.custom-html-widget
@@ -291,7 +305,6 @@ www.3djuegos.com##.tac.ad
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com##.bs-wrap-gdpr-law
-www.humblebundle.com###_evidon_banner
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
 www.onlinegdb.com###ad_unit_bottom
