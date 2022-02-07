@@ -258,6 +258,7 @@ online-convert.com###qg-toast
 origin.com###consent_blackbar
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
+##.cookie-backdrop
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
