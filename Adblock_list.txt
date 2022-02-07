@@ -320,6 +320,7 @@ xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
+youtube.com###masthead-ad
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
 youtube.com##.video-ads
 yts.mx##div[class="hidden-xs hidden-sm"]
