@@ -320,6 +320,7 @@ xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
+stackoverflow.com##body > .js-consent-banner
 yahoo.com###Billboard-ad
 icon-icons.com##ins[tabindex="0"]
 youtube.com##ytd-promoted-sparkles-web-renderer
