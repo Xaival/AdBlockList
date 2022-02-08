@@ -323,6 +323,7 @@ yahoo.com###Billboard-ad
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
+youtube.com##ytd-carousel-ad-renderer
 youtube.com##.video-ads
 youtube.com###masthead-ad
 yts.mx##div[class="hidden-xs hidden-sm"]
