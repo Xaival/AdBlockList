@@ -276,6 +276,7 @@ pelisplus.so##.adsuppervideo
 pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
 pelisxd.com##body>:not(#aa-wp)
+ichi.pro###notify-adblock
 pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
 publico.es##.pbfooter-main
