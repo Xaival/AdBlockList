@@ -246,6 +246,7 @@ mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_
 mejortorrentes.org###sec_main > center, #main_td_center_center > center
 microsoft.com,live.xbox.com###uhfCookieAlert
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
+icon-icons.com###bsa-placeholder-search, #bsa-placeholder-search2, #bsa-bottom
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
 netu.io##.eupopup-color-default
@@ -320,6 +321,7 @@ xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
+icon-icons.com##ins[tabindex="0"]
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
