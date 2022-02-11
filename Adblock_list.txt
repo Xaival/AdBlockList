@@ -111,6 +111,7 @@ diariodesevilla.es##.ad-v
 diariodesevilla.es###didomiConsentOverlay
 diariosanitario.com##.sidebar-narrow
 diariosanitario.com##.e3lan-post
+||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 diariosanitario.com##.home-ads
 diariosanitario.com##.bannersubheader
 diariosanitario.com##.cabecera
@@ -231,6 +232,7 @@ leeporn.com##.bns-bl
 lightpdf.com##.education
 linkedin.com##div[data-test-global-alert="0"]
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
+torlock.com##body>script+div
 maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
 mature-mom.tube##.thumbnails-wrapper iframe
