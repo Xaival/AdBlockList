@@ -147,6 +147,7 @@ es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
+game3rb.com##a[rel="nofollow"]
 fanatical.com##.cookie-collapsible
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
