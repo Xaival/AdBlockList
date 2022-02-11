@@ -197,6 +197,9 @@ hotgirlclub.com##.spnsrd-block-aside-250
 hotmovs.com##.app-banners *
 hotmovs.com, hdzog.com##.fiioed *
 ibit.am## iframe
+ichi.pro###notify-adblock
+icon-icons.com##ins[tabindex="0"]
+icon-icons.com###bsa-placeholder-search, #bsa-placeholder-search2, #bsa-bottom
 igg-games.com##.games-after-content
 igg-games.com##.textwidget
 igg-games.com###widget-advads_ad_widget-3
@@ -246,7 +249,6 @@ mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_
 mejortorrentes.org###sec_main > center, #main_td_center_center > center
 microsoft.com,live.xbox.com###uhfCookieAlert
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
-icon-icons.com###bsa-placeholder-search, #bsa-placeholder-search2, #bsa-bottom
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
 netu.io##.eupopup-color-default
@@ -276,7 +278,6 @@ pelisplus.so##.adsuppervideo
 pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
 pelisxd.com##body>:not(#aa-wp)
-ichi.pro###notify-adblock
 pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
 publico.es##.pbfooter-main
@@ -286,6 +287,7 @@ salamanca24horas.com##.c-banner
 salamanca24horas.com##.cscontent .row-top-banners
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
+stackoverflow.com##body > .js-consent-banner
 tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tube.hentaistream.com##.othercontent
@@ -321,14 +323,13 @@ xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
-stackoverflow.com##body > .js-consent-banner
 yahoo.com###Billboard-ad
-icon-icons.com##ins[tabindex="0"]
-youtube.com##ytd-promoted-sparkles-web-renderer
-youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
-youtube.com##ytd-carousel-ad-renderer
 youtube.com##.video-ads
 youtube.com###masthead-ad
+youtube.com##ytd-promoted-video-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-carousel-ad-renderer
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
