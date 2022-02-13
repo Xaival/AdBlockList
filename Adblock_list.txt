@@ -10,6 +10,7 @@
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
+||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||repelisgooo.com/srv-pv/tag-1330047
 ||www.pornhub.com/_xa/ads
 ||pasfox.com/js/buscador/jquery.js
@@ -111,7 +112,6 @@ diariodesevilla.es##.ad-v
 diariodesevilla.es###didomiConsentOverlay
 diariosanitario.com##.sidebar-narrow
 diariosanitario.com##.e3lan-post
-||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 diariosanitario.com##.home-ads
 diariosanitario.com##.bannersubheader
 diariosanitario.com##.cabecera
@@ -147,7 +147,6 @@ es.xhamster.com##.wio-xspa
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
-game3rb.com##a[rel="nofollow"]
 fanatical.com##.cookie-collapsible
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
@@ -155,6 +154,7 @@ gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; widt
 gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##.droitAjout
 gamcore.com##.cc_banner-wrapper
+game3rb.com##a[rel="nofollow"]
 gamepciso.org###HTML2 .widget-content
 gamesradar.com###qc-cmp2-container
 gamestorrents.fm##.principio_plugin
@@ -233,7 +233,6 @@ leeporn.com##.bns-bl
 lightpdf.com##.education
 linkedin.com##div[data-test-global-alert="0"]
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
-torlock.com##body>script+div
 maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
 mature-mom.tube##.thumbnails-wrapper iframe
@@ -293,6 +292,7 @@ sharewareonsale.com###onesignal-slidedown-container
 stackoverflow.com##body > .js-consent-banner
 tecnotutoshd.net###arlinablock
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
+torlock.com##body>script+div
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
@@ -312,6 +312,7 @@ writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
+open.spotify.com##div[data-testid="signup-bar"]
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
