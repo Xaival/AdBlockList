@@ -261,8 +261,8 @@ nuestrotecnomundotutoriales.blogspot.com##header
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
 nuevoloquo.com#@#div[aria-label="cookieconsent"]
 online-convert.com###qg-toast
+open.spotify.com##div[data-testid="signup-bar"]
 origin.com###consent_blackbar
-programiz.com##div[data-nosnippet]
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
@@ -283,6 +283,7 @@ pelisplus.so##.ads_header
 pelisxd.com##body>:not(#aa-wp)
 pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
+programiz.com##div[data-nosnippet]
 publico.es##.pbfooter-main
 publico.es##.pb-ads
 reloj-alarma.es###pnl-ne0n
@@ -313,12 +314,13 @@ writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
-open.spotify.com##div[data-testid="signup-bar"]
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
+commentpicker.com##.ezoic-adpicker-ad
+commentpicker.com###ezmobfooter
 www.photopea.com##body>.flexrow>div:last-child
 www.photopea.com###cap
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
