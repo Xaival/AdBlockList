@@ -300,6 +300,7 @@ tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 tuhentaionline.com##body > div:not(.wrapper)
+programmerclick.com##.adsloading
 uptodown.com###header_ad
 verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
 verdragonball.online##.sidebar .widget
