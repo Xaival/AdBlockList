@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 08 Feb 2022 10:44 UTC
+! Last modified: 14 Feb 2022 1:18 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -262,6 +262,7 @@ nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
 nuevoloquo.com#@#div[aria-label="cookieconsent"]
 online-convert.com###qg-toast
 origin.com###consent_blackbar
+programiz.com##div[data-nosnippet]
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
