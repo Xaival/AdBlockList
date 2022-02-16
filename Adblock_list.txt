@@ -94,6 +94,8 @@ celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
 commentpicker.com,conpilar.es##.ezoic-ad
+commentpicker.com##.ezoic-adpicker-ad
+commentpicker.com###ezmobfooter
 computerhoy.com##.ad-container
 conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
@@ -284,6 +286,7 @@ pelisxd.com##body>:not(#aa-wp)
 pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
 programiz.com##div[data-nosnippet]
+programmerclick.com##.adsloading
 publico.es##.pbfooter-main
 publico.es##.pb-ads
 reloj-alarma.es###pnl-ne0n
@@ -300,7 +303,6 @@ tube.hentaistream.com##div[name="adx_ad668"]
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 tuhentaionline.com##body > div:not(.wrapper)
-programmerclick.com##.adsloading
 uptodown.com###header_ad
 verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
 verdragonball.online##.sidebar .widget
@@ -318,10 +320,9 @@ www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
+camelcamelcamel.com##.ad
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
-commentpicker.com##.ezoic-adpicker-ad
-commentpicker.com###ezmobfooter
 www.photopea.com##body>.flexrow>div:last-child
 www.photopea.com###cap
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
