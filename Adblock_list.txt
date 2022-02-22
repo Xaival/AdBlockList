@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 14 Feb 2022 1:18 UTC
+! Last modified: 23 Feb 2022 1:18 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -90,6 +90,7 @@ blizzboygames.net##.vc_col-sm-12
 blizzboygames.net###gp-sidebar .widget_text
 bravoporn.com##.box-left
 bravoporn.com###rvt-inline-0
+camelcamelcamel.com##.ad
 celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
 codepen.io###bsa-footer
@@ -218,6 +219,7 @@ its.porn##.spot_large
 its.porn###comment_section
 jizzbunker.com##.panel-body
 jizzbunker.com##.panel-rklcontent-wide
+geeksforgeeks.org##.shell
 jkanime.video##body>div[style="text-align: center;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
@@ -320,7 +322,6 @@ www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
-camelcamelcamel.com##.ad
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
 www.photopea.com##body>.flexrow>div:last-child
