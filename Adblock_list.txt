@@ -163,6 +163,8 @@ gamesradar.com###qc-cmp2-container
 gamestorrents.fm##.principio_plugin
 gamezfull.com##.blocks .block .block-text
 garticphone.com###cmpbox
+geeksforgeeks.org###_fbn_
+geeksforgeeks.org##.shell
 giveaway.tickcoupon.com##.sp-native-popover
 gnula.red##.top-content
 gnulahd.online,pelispedia.top##.alert
@@ -219,8 +221,6 @@ its.porn##.spot_large
 its.porn###comment_section
 jizzbunker.com##.panel-body
 jizzbunker.com##.panel-rklcontent-wide
-geeksforgeeks.org##.shell
-geeksforgeeks.org###_fbn_
 jkanime.video##body>div[style="text-align: center;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
@@ -229,6 +229,7 @@ kennysoft.blogspot.com###HTML5
 kennysoft.blogspot.com##.optiads-native
 kennysoft.blogspot.com##.cookie-choices-inner
 lacasadeel.net##.td-a-rec
+thepythoncode.com##.ezoic-ad
 lacasadeel.net###webpushr-prompt-wrapper
 larazon.es##.article-body section aside
 larazon.es##.content__ad
