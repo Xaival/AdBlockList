@@ -220,6 +220,7 @@ its.porn###comment_section
 jizzbunker.com##.panel-body
 jizzbunker.com##.panel-rklcontent-wide
 geeksforgeeks.org##.shell
+geeksforgeeks.org###_fbn_
 jkanime.video##body>div[style="text-align: center;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
