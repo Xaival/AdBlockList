@@ -9,6 +9,7 @@
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
+
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||repelisgooo.com/srv-pv/tag-1330047
@@ -21,7 +22,6 @@
 ||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 @@||sdk.privacy-center.org
 ##.adv-aside
-##.ads
 ###ads
 ##.related-sites
 ##iframe[data-google-container-id]
@@ -229,7 +229,6 @@ kennysoft.blogspot.com###HTML5
 kennysoft.blogspot.com##.optiads-native
 kennysoft.blogspot.com##.cookie-choices-inner
 lacasadeel.net##.td-a-rec
-thepythoncode.com##.ezoic-ad
 lacasadeel.net###webpushr-prompt-wrapper
 larazon.es##.article-body section aside
 larazon.es##.content__ad
@@ -300,6 +299,7 @@ seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 stackoverflow.com##body > .js-consent-banner
 tecnotutoshd.net###arlinablock
+thepythoncode.com##.ezoic-ad
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 torlock.com##body>script+div
 tube.hentaistream.com##.othercontent
