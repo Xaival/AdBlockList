@@ -9,7 +9,6 @@
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
-
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||repelisgooo.com/srv-pv/tag-1330047
