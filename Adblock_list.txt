@@ -102,6 +102,7 @@ conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
 convertio.co,lightpdf.com##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
+||tecnobillo.com/home/home.min.js?20211124182109
 crunchyroll.com###message_box
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
