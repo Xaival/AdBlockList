@@ -18,6 +18,8 @@
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||vfxdownload.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||cursos.mejorcodigo.net/res/js/detector.js
+||tecnobillo.com/home/home.min.js?20211124182109
+||www.lawebdelprogramador.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 @@||sdk.privacy-center.org
 ##.adv-aside
@@ -92,6 +94,7 @@ bravoporn.com###rvt-inline-0
 camelcamelcamel.com##.ad
 celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
+cice.es##.cc-blockingScreen
 codepen.io###bsa-footer
 commentpicker.com,conpilar.es##.ezoic-ad
 commentpicker.com##.ezoic-adpicker-ad
@@ -101,7 +104,6 @@ conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
 convertio.co,lightpdf.com##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
-||tecnobillo.com/home/home.min.js?20211124182109
 crunchyroll.com###message_box
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
@@ -201,6 +203,7 @@ heureporno.com###video-right
 hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
+figma.com##.footer_banner--googleBanner--3dAQe
 hotmovs.com##.app-banners *
 hotmovs.com, hdzog.com##.fiioed *
 ibit.am## iframe
@@ -336,6 +339,7 @@ xhamster.com##.wio-xspb
 xhamster.com##footer
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
+yogihosting.com##.ezoic-ad
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
 youtube.com##.video-ads
 youtube.com###masthead-ad
