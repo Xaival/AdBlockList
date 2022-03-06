@@ -153,6 +153,7 @@ es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
 fanatical.com##.cookie-collapsible
+figma.com##.footer_banner--googleBanner--3dAQe
 gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
 gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
@@ -203,7 +204,6 @@ heureporno.com###video-right
 hotgirlclub.com###video_view aside
 hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
-figma.com##.footer_banner--googleBanner--3dAQe
 hotmovs.com##.app-banners *
 hotmovs.com, hdzog.com##.fiioed *
 ibit.am## iframe
@@ -244,8 +244,6 @@ m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
 maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
 mature-mom.tube##.thumbnails-wrapper iframe
-tinchicus.com##.wpa
-tinchicus.com###cmp-app-container
 mature-mom.tube##body>font[color="black"]
 mature-mom.tube##.spot-section .spot
 mazterize.com###dl-g
@@ -278,6 +276,9 @@ ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;p
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
+ahorradoras.com###CybotCookiebotDialogBodyUnderlay
+ahorradoras.com###CybotCookiebotDialog
+telodoygratis.com##div[data-app="cookie_consent"]
 pastebin.com##.popup-container
 peliculas24.me##.content-kuss-ads
 peliculas24.me##div[itemprop="description"] h3
@@ -306,6 +307,8 @@ stackoverflow.com##body > .js-consent-banner
 tecnotutoshd.net###arlinablock
 thepythoncode.com##.ezoic-ad
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
+tinchicus.com##.wpa
+tinchicus.com###cmp-app-container
 torlock.com##body>script+div
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
