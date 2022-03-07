@@ -69,6 +69,8 @@ abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##div[data-banner-placement="under_video"]
 adxgames.net##.gp-blog-columns-2
+ahorradoras.com###CybotCookiebotDialogBodyUnderlay
+ahorradoras.com###CybotCookiebotDialog
 allpeliculas.info###banner_publi
 anadoludabugun.com.tr##.banner
 analdin.com##.footer-ads
@@ -276,9 +278,6 @@ ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;p
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
-ahorradoras.com###CybotCookiebotDialogBodyUnderlay
-ahorradoras.com###CybotCookiebotDialog
-telodoygratis.com##div[data-app="cookie_consent"]
 pastebin.com##.popup-container
 peliculas24.me##.content-kuss-ads
 peliculas24.me##div[itemprop="description"] h3
@@ -305,6 +304,7 @@ seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 stackoverflow.com##body > .js-consent-banner
 tecnotutoshd.net###arlinablock
+telodoygratis.com##div[data-app="cookie_consent"]
 thepythoncode.com##.ezoic-ad
 tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tinchicus.com##.wpa
@@ -342,6 +342,7 @@ www3.animeflv.net##.Sidebar > a
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
+youtube.com##.ytp-pause-overlay.ytp-scroll-min
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
 yogihosting.com##.ezoic-ad
