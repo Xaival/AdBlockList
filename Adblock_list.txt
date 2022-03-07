@@ -342,7 +342,6 @@ www3.animeflv.net##.Sidebar > a
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
-youtube.com##.ytp-pause-overlay.ytp-scroll-min
 yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
 yogihosting.com##.ezoic-ad
