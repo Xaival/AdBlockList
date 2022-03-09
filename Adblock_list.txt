@@ -312,6 +312,7 @@ tinchicus.com###cmp-app-container
 torlock.com##body>script+div
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
+||geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.97
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 tuhentaionline.com##body > div:not(.wrapper)
