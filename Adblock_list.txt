@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 09 Mar 2022 23:34 UTC
+! Last modified: 13 Mar 2022 14:34 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -21,6 +21,7 @@
 ||tecnobillo.com/home/home.min.js?20211124182109
 ||www.lawebdelprogramador.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
+||geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.97
 @@||sdk.privacy-center.org
 ##.adv-aside
 ###ads
@@ -45,6 +46,7 @@
 ##.pause-video .pause-block
 ##.eww
 ##tbl-next-up
+gta.fandom.com##.top-ads-container
 ###ni-overlay
 ###pb_template
 ##.iRx9_wrt
@@ -312,7 +314,6 @@ tinchicus.com###cmp-app-container
 torlock.com##body>script+div
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
-||geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.97
 tube.hentaistream.com##.morecontent
 tube.hentaistream.com###commentscontainer
 tuhentaionline.com##body > div:not(.wrapper)
