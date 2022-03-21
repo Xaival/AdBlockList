@@ -1,111 +1,110 @@
 [Adblock Plus 3.1]
-! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
-! Version: 000000000001
-! Title: AdBlockList
-! Expires: 1 days (update frequency)
-! Last modified: 13 Mar 2022 14:34 UTC
-! Homepage: https://github.com/Xaival/AdBlockList
-!
-! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
-! Obtenido de: https://cutt.ly/fgwjt48
-!
+  ! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
+  ! Version: 000000000001
+  ! Title: AdBlockList
+  ! Expires: 1 days (update frequency)
+  ! Last modified: 21 Mar 2022 02:52 UTC
+  ! Homepage: https://github.com/Xaival/AdBlockList
+  !
+  ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
+  ! Obtenido de: https://cutt.ly/fgwjt48
+  !
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
-||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+||pasfox.com/js/buscador/jquery.js
 ||repelisgooo.com/srv-pv/tag-1330047
 ||www.pornhub.com/_xa/ads
-||pasfox.com/js/buscador/jquery.js
-||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
-||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
-||vfxdownload.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||cursos.mejorcodigo.net/res/js/detector.js
-||tecnobillo.com/home/home.min.js?20211124182109
-||www.lawebdelprogramador.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
-||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 ||geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=10.97
+||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
+||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
+||tecnobillo.com/home/home.min.js?20211124182109
+||vfxdownload.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
+||www.lawebdelprogramador.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 @@||sdk.privacy-center.org
-##.adv-aside
 ###ads
-##.related-sites
-##iframe[data-google-container-id]
-##.adv
-##div[id^=google_ads]
-##iframe[sandbox="allow-same-origin allow-scripts allow-popups"]
-##a[aria-label="link to donation page"]
-##.adsbygoogle
-##html>iframe
-##.block-video .table
-##.adtrue-div
-##.content-kuss
-##.sponsor
-##.widget_text
-##div[style="overflow: visible; visibility: visible;"]
-##.aan_fake
-##.bottom-banners
-##.aan_fake__video-units
-##.pause-video .mask
-##.pause-video .pause-block
-##.eww
-##tbl-next-up
-gta.fandom.com##.top-ads-container
 ###ni-overlay
 ###pb_template
+##.aan_fake
+##.aan_fake__video-units
+##.adsbygoogle
+##.adtrue-div
+##.adv
+##.adv-aside
+##.block-video .table
+##.bottom-banners
+##.content-kuss
+##.eww
 ##.iRx9_wrt
-##html > iframe
+##.pause-video .mask
+##.pause-video .pause-block
+##.related-sites
+##.sponsor
+##.widget_text
 ##.wrapper__related-sites
+##a[aria-label="link to donation page"]
+##div[id^=google_ads]
+##div[style="overflow: visible; visibility: visible;"]
+##html > iframe
+##html>iframe
+##iframe[data-google-container-id]
+##iframe[sandbox="allow-same-origin allow-scripts allow-popups"]
+##tbl-next-up
+###_evidon-barrier-wrapper
+###_evidon_banner
 ###cookie-law-info-bar
-##.cookies-policy-block
+###cookie-policy
 ###cookieChoiceInfo
 ###didomi-host
-###cookie-policy
-##cloudflare-app
-##div[aria-label="cookieconsent"]
-###_evidon_banner
-###onetrust-banner-sdk
 ###ez-cookie-dialog-wrapper
 ###gdpr-consent-tool-wrapper
+###onetrust-banner-sdk
 ###onetrust-consent-sdk
-###_evidon-barrier-wrapper
-##.user-comments
+##.cookies-policy-block
+##cloudflare-app
+##div[aria-label="cookieconsent"]
 ###cookiedata
+##.user-comments
 abc.es, sevilla.abc.es##.publi-articulo
 adultdeepfakes.com##.container .content .block-video .video__sidebar
 adultdeepfakes.com##div[data-banner-placement="under_video"]
 adxgames.net##.gp-blog-columns-2
-ahorradoras.com###CybotCookiebotDialogBodyUnderlay
 ahorradoras.com###CybotCookiebotDialog
+ahorradoras.com###CybotCookiebotDialogBodyUnderlay
 allpeliculas.info###banner_publi
 anadoludabugun.com.tr##.banner
+analdin.com###asg-video-0
 analdin.com##.footer-ads
 analdin.com##.na
-analdin.com###asg-video-0
 animefenix.com##a[href="https://hentaini.com/"]
 animeflv.net##body > .FollowUs
 antena3.com, cadenaser.com##.ob-smartfeed-wrapper
+anysex.com###content .center *
 anysex.com##.main .content_right
 anysex.com##.movie .type2
-anysex.com###content .center *
 areajugones.sport.es##.publicidad
-as.com##.publi
 as.com##.banner_sup
+as.com##.publi
 babestube.com##.viewlist .more-videos
 babestube.com##.viewlist .timelines
 bbc.com###dotcom-leaderboard
-blizzboygames.net##div [style="float: none; margin:20px 0 20px 0; text-align:center;"]
-blizzboygames.net##.vc_col-sm-12
 blizzboygames.net###gp-sidebar .widget_text
-bravoporn.com##.box-left
+blizzboygames.net##.vc_col-sm-12
+blizzboygames.net##div [style="float: none; margin:20px 0 20px 0; text-align:center;"]
 bravoporn.com###rvt-inline-0
+bravoporn.com##.box-left
 camelcamelcamel.com##.ad
-celeb.gate.cc##.container>.text-center
 celeb.gate.cc###sidebar .text-center
+celeb.gate.cc##.container>.text-center
 cice.es##.cc-blockingScreen
 codepen.io###bsa-footer
-commentpicker.com,conpilar.es##.ezoic-ad
 commentpicker.com##.ezoic-adpicker-ad
+commentpicker.com,conpilar.es##.ezoic-ad
 commentpicker.com###ezmobfooter
 computerhoy.com##.ad-container
-conpilar.es##.ezoic-ad-adaptive
 conpilar.es###ezmobfooter
+conpilar.es##.ezoic-ad-adaptive
 convertio.co,lightpdf.com##.chrome-app
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
 crunchyroll.com###message_box
@@ -119,50 +118,50 @@ deviants.com##.bottom-adv
 deviants.com##.twocolumns .aside
 diariodesevilla.es##.ad-v
 diariodesevilla.es###didomiConsentOverlay
-diariosanitario.com##.sidebar-narrow
-diariosanitario.com##.e3lan-post
-diariosanitario.com##.home-ads
 diariosanitario.com##.bannersubheader
 diariosanitario.com##.cabecera
 diariosanitario.com##.e3lan-bottom
+diariosanitario.com##.e3lan-post
+diariosanitario.com##.home-ads
+diariosanitario.com##.sidebar-narrow
 digitalpolicylaw.com##.td-header-sp-recs
 dilo.nu##div[data-darkreader-inline-bgimage]
 discord.com##.notice-3bPHh-
 eleconomista.es##.banners-superiores2
 elespanol.com##.msg-footer
 elpais.com,larazon.es##.ad
-empflix.com##.rbsd .mewBlock
 empflix.com##.pspBanner
+empflix.com##.rbsd .mewBlock
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
-es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
-es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
-es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
-es.pornhub.com,pornhub.com##.video-wrapper .clear
-es.pornhub.com,pornhub.com##video-element #pb_template
-es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
+es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com##.sniperModeEngaged
+es.pornhub.com,pornhub.com##.video-wrapper .clear
+es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
+es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
+es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
+es.pornhub.com,pornhub.com##video-element #pb_template
 es.pornhub.com,pornhub.com,es.redtube.com##.abovePlayer
 es.pornhub.com,pornhub.com##.cookiesBanner
 es.redtube.com###below_footer_ad_content
-es.redtube.com##iframe[data-spot-id]
+es.redtube.com###block_hottest_videos_by_country li:first-child
 es.redtube.com###video_right_col
 es.redtube.com##.ads_under_player
-es.redtube.com###block_hottest_videos_by_country li:first-child
+es.redtube.com##iframe[data-spot-id]
 es.redtube.com###eu_cookie_disclaimer
-es.xhamster.com##.wio-xspot-container
 es.xhamster.com##.wio-xspa
+es.xhamster.com##.wio-xspot-container
 es.xhamster.com##.cookie-announce
 euronics.es###cconsent-bar
 facebook.com##div[data-pagelet="RightRail"]>div:first-child
 fanatical.com##.cookie-collapsible
 figma.com##.footer_banner--googleBanner--3dAQe
-gamcore.com##.add_game .add_game
 gamcore.com###preloader_2
-gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
-gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
+gamcore.com##.add_game .add_game
 gamcore.com##.droitAjout
+gamcore.com##div[style="position: fixed; top: 0px; left: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
+gamcore.com##div[style="position: fixed; top: 0px; right: 0px; z-index: 89; width: 100%; height: 768px; overflow: hidden; visibility: hidden;"]
 gamcore.com##.cc_banner-wrapper
 game3rb.com##a[rel="nofollow"]
 gamepciso.org###HTML2 .widget-content
@@ -180,84 +179,85 @@ google.com, google.es###gws-output-pages-elements-homepage_additional_languages_
 gotporn.com##.sidebar
 gotporn.com##.spnsrd
 gotporn.com##.video-player-overlay
-h-flash.com##*[itemtype="http://schema.org/WPAdBlock"]
+gta.fandom.com##.top-ads-container
 h-flash.com###ads_0
+h-flash.com##*[itemtype="http://schema.org/WPAdBlock"]
 hablamosdegamers.com##.no-animation
 happy-landing.net###secondary
 happy-landing.net##.quads-location
 haya.es###CybotCookiebotDialog
-hclips.com##.video-page__item *
 hclips.com##.__nat--
+hclips.com##.video-page__item *
 hclips.com, hdzog.com##.footer-banners *
-hclips.com, hotmovs.com##.video-page__content .right
 hclips.com, hotmovs.com##.partners-wrap
+hclips.com, hotmovs.com##.video-page__content .right
 hdfull-v1.com##.btn.snd[role="button"]
-hdsexvideos.pro##iframe[marginheight="0"]
 hdsexvideos.pro##.camitems
 hdsexvideos.pro##.mult
+hdsexvideos.pro##iframe[marginheight="0"]
 hdzog.com##.header__cookie
 hdzog.com##.video-page__banners *
 hellporno.com##.block-title
+hellporno.com##.bnnrs-player
 hellporno.com##.footer-advertisements
 hellporno.com##.view-video-advertisements
-hellporno.com##.bnnrs-player
 hellporno.net##.block-banner 
-hentaini.com##.mx-auto > a
 hentaini.com##.container:nth-of-type(4) .row div[xs="6"]:first-of-type
+hentaini.com##.mx-auto > a
 heureporno.com###video-right
 hotgirlclub.com###video_view aside
-hotgirlclub.com##.spnsrd-block-full-width
 hotgirlclub.com##.spnsrd-block-aside-250
+hotgirlclub.com##.spnsrd-block-full-width
 hotmovs.com##.app-banners *
 hotmovs.com, hdzog.com##.fiioed *
 ibit.am## iframe
 ichi.pro###notify-adblock
 icon-icons.com##ins[tabindex="0"]
 icon-icons.com###bsa-placeholder-search, #bsa-placeholder-search2, #bsa-bottom
+igg-games.com###widget-advads_ad_widget-3
 igg-games.com##.games-after-content
 igg-games.com##.textwidget
-igg-games.com###widget-advads_ad_widget-3
 iloveimg.com###toast-container
 img2go.com, animeblix.com, animeki.net##div[role="alert"]
 instagram.com##._8UZ6e
-investing.com##.midHeader
 investing.com###hpAdVideo
 investing.com##.earAdv
-its.porn##.twocolumns aside
+investing.com##.midHeader
 its.porn##.spot_large
+its.porn##.twocolumns aside
 its.porn###comment_section
 jizzbunker.com##.panel-body
 jizzbunker.com##.panel-rklcontent-wide
 jkanime.video##body>div[style="text-align: center;"]
 juegosfullparapc.com###sidebar center
 juegosfullparapc.com##.pea_cook_bottomright
-kennysoft.blogspot.com##.skin-right
 kennysoft.blogspot.com###HTML5
 kennysoft.blogspot.com##.optiads-native
+kennysoft.blogspot.com##.skin-right
 kennysoft.blogspot.com##.cookie-choices-inner
-lacasadeel.net##.td-a-rec
 lacasadeel.net###webpushr-prompt-wrapper
+lacasadeel.net##.td-a-rec
 larazon.es##.article-body section aside
 larazon.es##.content__ad
-leeporn.com,mature-mom.tube##body>center
-leeporn.com##.right-player-col
 leeporn.com##.bns-bl
+leeporn.com##.right-player-col
+leeporn.com,mature-mom.tube##body>center
 lightpdf.com##.education
 linkedin.com##div[data-test-global-alert="0"]
 m.animeflv.net##div[style="text-align: center; margin: 0 0 20px;"]
-maduras.xxx###sidebar
 maduras.xxx###cookiescript_injected
+maduras.xxx###sidebar
+mature-mom.tube##.spot-section .spot
 mature-mom.tube##.thumbnails-wrapper iframe
 mature-mom.tube##body>font[color="black"]
-mature-mom.tube##.spot-section .spot
 mazterize.com###dl-g
 mediafire.com###div-gpt-ad-1583943738910-0
 mediafire.com###cookie-accept-footer
 mediafire.com##.fc-consent-root
 mediafire.com##.DLExtraInfo-wrap
-megatube.xxx##.widget-connected
-megatube.xxx##.footer-margin
 megatube.xxx##.content--right-ads .place
+megatube.xxx##.footer-margin
+megatube.xxx##.widget-connected
 mejortorrentes.org###sec_main > table[border="0"]
 mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_center_center2 > table:first-child + br
 mejortorrentes.org###sec_main > center, #main_td_center_center > center
@@ -269,15 +269,15 @@ netu.io##.eupopup-color-default
 newpct.me##.ficha_descarga_opciones
 nosteam.ro###fanback
 notus.com.mx##.stream-item
-nuestrotecnomundotutoriales.blogspot.com##header
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
+nuestrotecnomundotutoriales.blogspot.com##header
 nuevoloquo.com#@#div[aria-label="cookieconsent"]
 online-convert.com###qg-toast
 open.spotify.com##div[data-testid="signup-bar"]
 origin.com###consent_blackbar
+ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
-ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 outlook.live.com##div[aria-label="anuncio"]
 palabrasque.com##.cc-grower
 pastebin.com##.popup-container
@@ -289,16 +289,16 @@ pelis24.in##.post footer
 pelisflix.vip##.notes
 pelispedia.io##.cpa.front-content
 pelisplus.me##.adx
-pelisplus.so##.adsuppervideo
-pelisplus.so##.adsbelowvideo
 pelisplus.so##.ads_header
+pelisplus.so##.adsbelowvideo
+pelisplus.so##.adsuppervideo
 pelisxd.com##body>:not(#aa-wp)
-pivigames.blog, adxgames.net##.wpb_raw_html
 pivigames.blog##.gp-sidebar .widget_text
+pivigames.blog, adxgames.net##.wpb_raw_html
 programiz.com##div[data-nosnippet]
 programmerclick.com##.adsloading
-publico.es##.pbfooter-main
 publico.es##.pb-ads
+publico.es##.pbfooter-main
 reloj-alarma.es###pnl-ne0n
 salamanca24horas.com##.c-banner
 salamanca24horas.com##.cscontent .row-top-banners
@@ -312,25 +312,25 @@ tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tinchicus.com##.wpa
 tinchicus.com###cmp-app-container
 torlock.com##body>script+div
+tube.hentaistream.com###commentscontainer
+tube.hentaistream.com##.morecontent
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
-tube.hentaistream.com##.morecontent
-tube.hentaistream.com###commentscontainer
 tuhentaionline.com##body > div:not(.wrapper)
 uptodown.com###header_ad
-verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
 verdragonball.online##.sidebar .widget
+verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
 verpeliculasultra.com##.fstory-rating-left
-verteleseriesonline.com##.postbody .widget-title
 verteleseriesonline.com##.postbody .textwidget.custom-html-widget
+verteleseriesonline.com##.postbody .widget-title
 verteleseriesonline.com##.sd + .whites > :not(#adv2)
 verteleseriesonline.com###demo.megavid > :not(.video-nav, .video-content)
 vk.com###cookies_policy_wrap
 writers-den.pantomimepony.co.uk###ad_leaderboard
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
-www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com###chp_ads_blocker-modal
+www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
 www.metropoliabierta.com#@##didomi-host
@@ -344,15 +344,15 @@ www3.animeflv.net##.Sidebar > a
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
-yahoo.com###my-adsMON
 yahoo.com###Billboard-ad
+yahoo.com###my-adsMON
 yogihosting.com##.ezoic-ad
+youtube.com###masthead-ad
 youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
 youtube.com##.video-ads
-youtube.com###masthead-ad
-youtube.com##ytd-promoted-video-renderer
-youtube.com##ytd-promoted-sparkles-web-renderer
-youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-carousel-ad-renderer
+youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-promoted-video-renderer
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
