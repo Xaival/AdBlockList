@@ -1,14 +1,14 @@
 [Adblock Plus 3.1]
-  ! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
-  ! Version: 000000000001
-  ! Title: AdBlockList
-  ! Expires: 1 days (update frequency)
-  ! Last modified: 21 Mar 2022 02:52 UTC
-  ! Homepage: https://github.com/Xaival/AdBlockList
-  !
-  ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
-  ! Obtenido de: https://cutt.ly/fgwjt48
-  !
+! Checksum: 6cmz1MFvwsMbR6P8KlZF2g
+! Version: 000000000001
+! Title: AdBlockList
+! Expires: 1 days (update frequency)
+! Last modified: 21 Mar 2022 02:52 UTC
+! Homepage: https://github.com/Xaival/AdBlockList
+!
+! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
+! Obtenido de: https://cutt.ly/fgwjt48
+!
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||pasfox.com/js/buscador/jquery.js
 ||repelisgooo.com/srv-pv/tag-1330047
