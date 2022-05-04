@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 03 May 2022 22:01 UTC
+! Last modified: 04 May 2022 00:26 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -113,6 +113,7 @@ crunchyroll.com###message_box
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
 cuevana-3.wtf, vidcorntv.org##aside>a
+cuevana3-v2.wtf##body > div:not([class])
 cuevana3.io###mdl-ads
 cumlouder.com##.smt-bottom
 cumlouder.com##.smt-promo
