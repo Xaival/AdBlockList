@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 05 May 2022 22:01 UTC
+! Last modified: 05 May 2022 23:53 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -269,6 +269,7 @@ mejortorrentes.org###sec_main > table[border="0"]
 mejortorrentes.org###main_table_center_center2 > table:first-child, #main_table_center_center2 > table:first-child + br
 mejortorrentes.org###sec_main > center, #main_td_center_center > center
 microsoft.com,live.xbox.com###uhfCookieAlert
+mundoprimaria.com###consentDialog
 mysexgames.com##div[style="bottom: 0px; left: 0px; position: fixed; z-index: 100; cursor: pointer;"]
 mysexgames.com##td[align="right"] table tbody
 namegeneratorfun.com###consent
