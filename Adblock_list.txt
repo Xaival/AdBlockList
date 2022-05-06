@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 06 May 2022 18:34 UTC
+! Last modified: 06 May 2022 20:47 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -116,6 +116,7 @@ cuevana-3.wtf, vidcorntv.org##aside>a
 cuevana3-v2.wtf##aside .btn.snd
 cuevana3-v2.wtf##body > div:not([class])
 cuevana3-v2.wtf##.bd > .section.episodes:last-of-type
+cuevana3-v2.wtf##.tax-episodes article.post.single
 cuevana3-v2.wtf##.bd center, .bd article.single footer
 cuevana3.io###mdl-ads
 cumlouder.com##.smt-bottom
