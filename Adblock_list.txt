@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 25 May 2022 21:52 UTC
+! Last modified: 02 Jun 2022 23:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -12,6 +12,7 @@
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||pasfox.com/js/buscador/jquery.js
 ||repelisgooo.com/srv-pv/tag-1330047
+||securepubads.g.doubleclick.net
 ||www.pornhub.com/_xa/ads
 ||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||cursos.mejorcodigo.net/res/js/detector.js
@@ -85,6 +86,7 @@ antena3.com, cadenaser.com##.ob-smartfeed-wrapper
 anysex.com###content .center *
 anysex.com##.main .content_right
 anysex.com##.movie .type2
+areadelcliente.dkvseguros.com###cookiescript_injected
 areajugones.sport.es##.publicidad
 as.com##.banner_sup
 as.com##.publi
@@ -98,6 +100,7 @@ bowfile.com##.advert-wrapper
 bravoporn.com###rvt-inline-0
 bravoporn.com##.box-left
 camelcamelcamel.com##.ad
+canon.es###_evidon-background
 celeb.gate.cc###sidebar .text-center
 celeb.gate.cc##.container>.text-center
 cice.es##.cc-blockingScreen
