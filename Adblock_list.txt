@@ -3,12 +3,13 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 22 Jun 2022 20:41 UTC
+! Last modified: 29 Jun 2022 16:09 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
+||ads.exosrv.com
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||pasfox.com/js/buscador/jquery.js
 ||repelisgooo.com/srv-pv/tag-1330047
@@ -171,7 +172,6 @@ facebook.com##div[data-pagelet="RightRail"]>div:first-child
 fanatical.com##.cookie-collapsible
 figma.com##.footer_banner--googleBanner--3dAQe
 free-flash-to-video-converter.en.softonic.com##.sam-slot--leaderboard
-free-flash-to-video-converter.en.softonic.com###didomi-host
 gamcore.com###preloader_2
 gamcore.com##.add_game .add_game
 gamcore.com##.droitAjout
@@ -357,7 +357,6 @@ www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com##.bs-wrap-gdpr-law
 www.indiegala.com###cookie-policy-popup
-www.metropoliabierta.com#@##didomi-host
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
 www.photopea.com##body>.flexrow>div:last-child
