@@ -58,7 +58,6 @@
 ###cookie-law-info-bar
 ###cookie-policy
 ###cookieChoiceInfo
-###didomi-host
 ###ez-cookie-dialog-wrapper
 ###gdpr-consent-tool-wrapper
 ###onetrust-banner-sdk
