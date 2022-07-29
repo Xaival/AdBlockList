@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 14 Jul 2022 20:52 UTC
+! Last modified: 29 Jul 2022 14:03 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -362,12 +362,14 @@ www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
 www.photopea.com##body>.flexrow>div:last-child
 www.photopea.com###cap
+www.tokyvideo.com##.fan--related-videos
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
+xvideos.com###video-ad
 yahoo.com###Billboard-ad
 yahoo.com###my-adsMON
 yogihosting.com##.ezoic-ad
