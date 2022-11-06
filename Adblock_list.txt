@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 05 Nov 2022 23:11 UTC
+! Last modified: 06 Nov 2022 00:11 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -375,6 +375,8 @@ xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
 xvideos.com###video-ad
+y1.cuevana3.me###mdl-help
+y1.cuevana3.me##div.message_k
 yahoo.com###Billboard-ad
 yahoo.com###my-adsMON
 yogihosting.com##.ezoic-ad
