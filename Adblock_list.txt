@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 07 Nov 2022 21:26 UTC
+! Last modified: 08 Nov 2022 17:57 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -383,7 +383,6 @@ yahoo.com###Billboard-ad
 yahoo.com###my-adsMON
 yogihosting.com##.ezoic-ad
 youtube.com###masthead-ad
-youtube.com###primary>ytd-rich-grid-renderer>#contents>ytd-rich-grid-row:first-child
 youtube.com##.video-ads
 youtube.com##ytd-carousel-ad-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
