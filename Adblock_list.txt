@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 03 Jan 2023 18:36 UTC
+! Last modified: 03 Jan 2023 23:59 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -122,6 +122,8 @@ crunchyroll.com###message_box
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
 cuevana-3.wtf, vidcorntv.org##aside>a
+cuevana.pizza##a[rel="nofollow noreferrer noopener"]
+cuevana.pizza##.marquee-wrapper, .marquee-offset
 cuevana3-v2.wtf##aside .btn.snd
 cuevana3-v2.wtf##body > div:not([class])
 cuevana3-v2.wtf##.bd > .section.episodes:last-of-type
@@ -317,6 +319,7 @@ pelis24.in##.post a[rel="noopener"]
 pelis24.in##.post footer
 pelisflix.vip##.notes
 pelispedia.io##.cpa.front-content
+pelispedia.one##div.tab-content-block center
 pelisplus.me##.adx
 pelisplus.so##.ads_header
 pelisplus.so##.adsbelowvideo
