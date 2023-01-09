@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 08 Jan 2023 21:32 UTC
+! Last modified: 09 Jan 2023 17:19 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -17,6 +17,8 @@
 ||pasfox.com/js/buscador/jquery.js
 ||qontent.powvibeo.me
 ||repelisgooo.com/srv-pv/tag-1330047
+||sbplay2.xyz/assets/jquery/jquery-3.1.min.js?type=mainstream
+||sbplay2.xyz/js/mainpc.js
 ||securepubads.g.doubleclick.net
 ||www.pornhub.com/_xa/ads
 ||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
