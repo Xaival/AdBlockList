@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 18 Feb 2023 14:54 UTC
+! Last modified: 21 Feb 2023 17:01 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -168,6 +168,7 @@ es.pornhub.com,pornhub.com##.video-wrapper .clear
 es.pornhub.com,pornhub.com##.video-wrapper .underplayerAd
 es.pornhub.com,pornhub.com##iframe[data-embeddedads="true"]
 es.pornhub.com,pornhub.com##li[class="sniperModeEngaged alpha"]
+es.pornhub.com,pornhub.com##ul > .alpha
 es.pornhub.com,pornhub.com##video-element #pb_template
 es.pornhub.com,pornhub.com,es.redtube.com##.abovePlayer
 es.pornhub.com,pornhub.com##.cookiesBanner
