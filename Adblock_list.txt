@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 01 May 2023 14:12 UTC
+! Last modified: 02 May 2023 15:03 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -325,6 +325,7 @@ pelis24.in##.post a[rel="noopener"]
 pelis24.in##.post footer
 pelisflix.vip##.notes
 pelispedia.io##.cpa.front-content
+pelispedia.one##body > script[src="https://rndskittytor.com/400/5911849"] ~ div
 pelispedia.one##div.tab-content-block center
 pelisplus.me##.adx
 pelisplus.so##.ads_header
