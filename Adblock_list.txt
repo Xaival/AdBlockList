@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 21 Jun 2023 11:52 UTC
+! Last modified: 22 Jun 2023 02:32 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -104,7 +104,9 @@ bbc.com###dotcom-leaderboard
 blizzboygames.net###gp-sidebar .widget_text
 blizzboygames.net##.vc_col-sm-12
 blizzboygames.net##div [style="float: none; margin:20px 0 20px 0; text-align:center;"]
+borisfx.com###ccc-overlay
 bowfile.com##.advert-wrapper
+br0wsers.com##body > .fc-ab-root
 bravoporn.com###rvt-inline-0
 bravoporn.com##.box-left
 camelcamelcamel.com##.ad
@@ -364,6 +366,7 @@ unicode-table.com##.main__top-ad
 unsplash.com##a[rel="sponsored"]
 unsplash.com##div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .XGNy4.OhYua.xNKUO.dvBHu.oh0KJ, div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .kG7WW
 uploadrar.com###commonId a.btn-lg
+uploadrar.com###arlinablock
 uptodown.com###header_ad
 verdragonball.online##.sidebar .widget
 verdragonball.online##div[style="overflow: visible; visibility: visible; width: 849px; height: 499px;"]
