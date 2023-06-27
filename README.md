@@ -48,11 +48,13 @@ Lista de filtros para [Adblock Plus](https://adblockplus.org/) para eliminar los
 
 <br>
 
-2. Ahi pegas este [https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) y le das a añadir.
+2. Ahí pegas este [https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) y le das a añadir.
+
 ![image](https://github.com/Xaival/AdBlockList/assets/54257745/069a4d8a-f917-4ebe-8eda-6262de2e3dd0)
 
 <br>
 
 3. Y ya puedes ver que se queda añadido.
+
 ![image](https://github.com/Xaival/AdBlockList/assets/54257745/f3f07b80-4dab-4f07-b96d-d92e63cbb219)
 
