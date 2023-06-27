@@ -34,3 +34,25 @@ Lista de filtros para [Adblock Plus](https://adblockplus.org/) para eliminar los
 5. Una vez terminado te aparecerá en la lista.
 
 ![image](https://user-images.githubusercontent.com/54257745/112394010-427bf800-8cfc-11eb-9bcd-687abbef260e.png)
+
+<br><br><br>
+
+### Para agregar esta lista de filtros al navegador Brave
+
+<br>
+
+1. Ve a [brave://settings/shields/filters](brave://settings/shields/filters)
+
+![image](https://github.com/Xaival/AdBlockList/assets/54257745/670e954a-0f85-4844-a207-38dba40a72c4)
+
+
+<br>
+
+2. Ahi pegas este [https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt](https://raw.githubusercontent.com/Xaival/AdBlockList/main/Adblock_list.txt) y le das a añadir.
+![image](https://github.com/Xaival/AdBlockList/assets/54257745/069a4d8a-f917-4ebe-8eda-6262de2e3dd0)
+
+<br>
+
+3. Y ya puedes ver que se queda añadido.
+![image](https://github.com/Xaival/AdBlockList/assets/54257745/f3f07b80-4dab-4f07-b96d-d92e63cbb219)
+
