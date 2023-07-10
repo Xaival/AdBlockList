@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 06 Jul 2023 19:13 UTC
+! Last modified: 10 Jul 2023 11:11 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -393,6 +393,10 @@ www.tokyvideo.com##.fan--related-videos
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
+www3.cuevana.im##.backdrop a[rel="nofollow"]
+www3.cuevana.im##.main > .show
+www3.cuevana.im##.marquee-wrapper
+www3.cuevana.im##.player-message
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
