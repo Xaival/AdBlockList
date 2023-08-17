@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 16 Aug 2023 16:02 UTC
+! Last modified: 17 Aug 2023 16:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -362,6 +362,7 @@ tube.hentaistream.com##.morecontent
 tube.hentaistream.com##.othercontent
 tube.hentaistream.com##div[name="adx_ad668"]
 tuhentaionline.com##body > div:not(.wrapper)
+tumblr.com###base-container > div > div:nth-child(2)
 turbobit.net##.download-form .col-2
 turbobit.net##.download-form center
 unicode-table.com##.main__top-ad
