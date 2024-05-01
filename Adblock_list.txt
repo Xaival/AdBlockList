@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 30 Apr 2024 16:02 UTC
+! Last modified: 01 May 2024 16:03 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -316,6 +316,7 @@ nuevoloquo.com#@#div[aria-label="cookieconsent"]
 online-convert.com###qg-toast
 open.spotify.com##div[data-testid="signup-bar"]
 origin.com###consent_blackbar
+orion.managewp.com###__tealiumGDPRecModal
 ouo.press##.content div[style="padding-top:10px;margin:0 auto;width:300px;"]
 ouo.press##.text-center div[style="overflow: visible; visibility: visible; width: 495px; height: 387px;"]
 ouo.press##.text-center span[style="display: block;color: #aaa;font-size: 13px;padding-bottom: 2px;"]
@@ -364,6 +365,7 @@ tuhentaionline.com##body > div:not(.wrapper)
 tumblr.com###base-container > div > div:nth-child(2)
 turbobit.net##.download-form .col-2
 turbobit.net##.download-form center
+twitch.tv##nav ~ div > article
 unicode-table.com##.main__top-ad
 unsplash.com##a[rel="sponsored"]
 unsplash.com##div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .XGNy4.OhYua.xNKUO.dvBHu.oh0KJ, div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .kG7WW
