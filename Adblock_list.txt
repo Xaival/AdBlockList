@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 01 May 2024 16:03 UTC
+! Last modified: 02 May 2024 16:01 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -16,12 +16,14 @@
 ||criptokio.com/wp-includes/js/jquery/jquery.min.js
 ||eentent.streampiay.me
 ||embedsb.com/js/mainmb.js
+||fc-lc.xyz/nt.js
 ||pasfox.com/js/buscador/jquery.js
 ||qontent.powvibeo.me
 ||repelisgooo.com/srv-pv/tag-1330047
 ||sbplay2.xyz/assets/jquery/jquery-3.1.min.js?type=mainstream
 ||sbplay2.xyz/js/mainpc.js
 ||securepubads.g.doubleclick.net
+||tmail.io/js/nt.js
 ||www.pornhub.com/_xa/ads
 ||www.torlock.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||cursos.mejorcodigo.net/res/js/detector.js
@@ -30,6 +32,7 @@
 ||s1.eestatic.com/eprivacy/sdk.9c86b82255c90aea14ccfd23d243b3612512d1c3.js
 ||stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js
 ||tecnobillo.com/home/home.min.js?20211124182109
+||tmail.io/FwKEtUIRsv.js
 ||vfxdownload.net/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
 ||www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1
 ||www.lawebdelprogramador.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
@@ -356,6 +359,7 @@ tiktok.com##.tiktok-atuaas-DivCookieBannerContainer
 tinchicus.com##.wpa
 tinchicus.com###cmp-app-container
 tinkercad.com##.adsk-gdpr-footer-wrapper
+tmail.io###ad, #ad1, #ad2, #ad3, #ad4, #adb_detected, #overlay, #iframe_id
 torlock.com##body>script+div
 tube.hentaistream.com###commentscontainer
 tube.hentaistream.com##.morecontent
