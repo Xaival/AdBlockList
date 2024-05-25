@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 23 May 2024 16:02 UTC
+! Last modified: 25 May 2024 16:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -392,6 +392,7 @@ www.binance.com###disclaimer-top-bar
 www.fcportables.com###chp_ads_blocker-modal
 www.fcportables.com###chp_ads_blocker-overlay
 www.fcportables.com##.bs-wrap-gdpr-law
+www.filefactory.com##div[style="position:relative; z-index: 99999999999999999999;"]
 www.indiegala.com###cookie-policy-popup
 www.onlinegdb.com###ad_unit_bottom
 www.pelis24tv.co###ads_player_top
