@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 02 Aug 2024 16:03 UTC
+! Last modified: 03 Aug 2024 16:03 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -103,6 +103,7 @@ areadelcliente.dkvseguros.com###cookiescript_injected
 areajugones.sport.es##.publicidad
 as.com##.banner_sup
 as.com##.publi
+aulafacil.com###cl-consent
 babestube.com##.viewlist .more-videos
 babestube.com##.viewlist .timelines
 bbc.com###dotcom-leaderboard
