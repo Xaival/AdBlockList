@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 26 Aug 2024 16:02 UTC
+! Last modified: 27 Aug 2024 16:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -421,5 +421,6 @@ youtube.com##ytd-carousel-ad-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-video-renderer
+youtube.com##ytd-shelf-renderer:not([lockup="true"])
 yts.mx##div[class="hidden-xs hidden-sm"]
 zona-leros.net##.content_store
