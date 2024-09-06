@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 06 Sep 2024 16:01 UTC
+! Last modified: 06 Sep 2024 18:16 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -120,6 +120,7 @@ canon.es###_evidon-background
 celeb.gate.cc###sidebar .text-center
 celeb.gate.cc##.container>.text-center
 cice.es##.cc-blockingScreen
+cinepeli.com###adblockbyspider
 codepen.io###bsa-footer
 commentpicker.com##.ezoic-adpicker-ad
 commentpicker.com,conpilar.es##.ezoic-ad
