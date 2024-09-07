@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 06 Sep 2024 20:03 UTC
+! Last modified: 07 Sep 2024 08:27 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -365,6 +365,7 @@ tinchicus.com##.wpa
 tinchicus.com###cmp-app-container
 tinkercad.com##.adsk-gdpr-footer-wrapper
 tmail.io###ad, #ad1, #ad2, #ad3, #ad4, #adb_detected, #overlay, #iframe_id
+todaseries.cc##.pmovie__rbutton, .pmovie__btns
 torlock.com##body>script+div
 tube.hentaistream.com###commentscontainer
 tube.hentaistream.com##.morecontent
