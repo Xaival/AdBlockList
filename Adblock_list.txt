@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 14 Sep 2024 16:02 UTC
+! Last modified: 15 Sep 2024 16:01 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -153,6 +153,7 @@ cumlouder.com##.smt-promo
 cutty.app##.aspace
 cutty.app#@#.adsbygoogle
 dash.infinityfree.com##iframe[src="about:blank"]
+dessi.co##.undress__BannerWrapper-sc-1p30qgk-0.ciNrAv
 deviants.com##.bottom-adv
 deviants.com##.twocolumns .aside
 diariodesevilla.es##.ad-v
