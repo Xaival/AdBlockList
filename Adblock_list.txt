@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 19 Sep 2024 16:01 UTC
+! Last modified: 20 Sep 2024 15:31 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -65,7 +65,6 @@
 ##html > iframe
 ##html>:not(head, body), html>:not(head, body) *
 ##iframe[data-google-container-id]
-##iframe[sandbox="allow-same-origin allow-scripts allow-popups"]
 ##tbl-next-up
 ###_evidon-barrier-wrapper
 ###_evidon_banner
