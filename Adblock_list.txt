@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 17 Oct 2024 16:01 UTC
+! Last modified: 18 Oct 2024 16:01 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -391,6 +391,7 @@ verteleseriesonline.com##.postbody .widget-title
 verteleseriesonline.com##.sd + .whites > :not(#adv2)
 verteleseriesonline.com###demo.megavid > :not(.video-nav, .video-content)
 vk.com###cookies_policy_wrap
+web.telegram.org##.SponsoredMessage
 writers-den.pantomimepony.co.uk###ad_leaderboard
 writers-den.pantomimepony.co.uk###ad_wideskyscraper
 www.3djuegos.com##.tac.ad
