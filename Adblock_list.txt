@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 19 Oct 2024 16:01 UTC
+! Last modified: 20 Oct 2024 16:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -12,6 +12,7 @@
 ||ads.exosrv.com
 ||cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js$script,domain=lasaventurasderickymorty.blogspot.com|lasaventurasderickymorty2.blogspot.com
 
+||cdnplaypro.com/assets/jquery/app0.js
 ||cloudvideo.tv/p5/videojs/plugins/videojs.hotkeys.min.js
 ||criptokio.com/wp-includes/js/jquery/jquery.min.js
 ||eentent.streampiay.me
