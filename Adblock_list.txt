@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 19 Feb 2025 17:01 UTC
+! Last modified: 20 Feb 2025 17:02 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -176,6 +176,7 @@ empflix.com##.pspBanner
 empflix.com##.rbsd .mewBlock
 empflix.com##.withRightBar div[style="cursor: pointer;"]
 empflix.com##.withRightBar div[style="width: 100%; cursor: pointer;"]
+es.pornhub.com##.topSectionGrid .videoWrapModelInfo ~ .sideColumn
 es.pornhub.com,pornhub.com###vpContentContainer #hd-rightColVideoPage
 es.pornhub.com,pornhub.com###welcome
 es.pornhub.com,pornhub.com##.sniperModeEngaged
