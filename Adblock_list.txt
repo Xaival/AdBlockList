@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 26 Jul 2025 16:13 UTC
+! Last modified: 27 Jul 2025 16:15 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -366,6 +366,7 @@ script.google.com##div[aria-labelledby="cookieBarText"]
 seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 stackoverflow.com##body > .js-consent-banner
+streamwish.to##div[style*="z-index: 2147483647"][style*="position: absolute"]
 tecnotutoshd.net###arlinablock
 telodoygratis.com##div[data-app="cookie_consent"]
 thepythoncode.com##.ezoic-ad
@@ -436,4 +437,5 @@ youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-promoted-video-renderer
 youtube.com##ytd-search ytd-shelf-renderer:not([lockup="true"])
 yts.mx##div[class="hidden-xs hidden-sm"]
+yuguaab.com##div[style*="z-index: 2147483647"][style*="position: absolute"]
 zona-leros.net##.content_store
