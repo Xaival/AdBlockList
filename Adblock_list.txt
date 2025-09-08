@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 07 Sep 2025 16:15 UTC
+! Last modified: 08 Sep 2025 16:13 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -139,6 +139,8 @@ corrector-castellano.com##.ezoic-ad
 corrector-castellano.com##span[data-ez-ph-id="101"]
 correodelsur.com##div[style="position: fixed;bottom:5px;z-index:9999;"]
 crunchyroll.com###message_box
+crunchyroll.com###upsell-popup
+crunchyroll.com##.banner-wrapper
 crunchyroll.com##.game-banner-wrapper
 crunchyroll.com##div[data-role="opt-in-banner"]
 cuevana-3.wtf, vidcorntv.org##aside>a
