@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 23 Oct 2025 20:59 UTC
+! Last modified: 01 Feb 2026 11:40 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -328,6 +328,7 @@ namegeneratorfun.com###consent
 netu.io##.eupopup-color-default
 newpct.me##.ficha_descarga_opciones
 nosteam.ro###fanback
+notion.so##.layout > .pseudoSelection
 notus.com.mx##.stream-item
 nuestrotecnomundotutoriales.blogspot.com##div[class="widget HTML"]
 nuestrotecnomundotutoriales.blogspot.com##header
