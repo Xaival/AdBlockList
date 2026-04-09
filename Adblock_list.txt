@@ -3,12 +3,13 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 07 Feb 2026 14:49 UTC
+! Last modified: 09 Apr 2026 14:45 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
 ! Obtenido de: https://cutt.ly/fgwjt48
 !
+||dhtpre.com/assets/jquery/player.js
 ||ads.exosrv.com
 ||cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js$script,domain=lasaventurasderickymorty.blogspot.com|lasaventurasderickymorty2.blogspot.com
 
@@ -431,6 +432,7 @@ www3.cuevana.im##.player-message
 xhamster.com##.wio-xplayer
 xhamster.com##.wio-xspb
 xhamster.com##footer
+xupalace.org###modal
 xvideos.com###video-ad
 yahoo.com###Billboard-ad
 yahoo.com###my-adsMON
