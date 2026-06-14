@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 12 Jun 2026 16:12 UTC
+! Last modified: 14 Jun 2026 16:18 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -393,6 +393,7 @@ tumblr.com###base-container > div > div:nth-child(2)
 turbobit.net##.download-form .col-2
 turbobit.net##.download-form center
 twitch.tv##nav ~ div > article
+uiil.ink###downloadButton
 unicode-table.com##.main__top-ad
 unsplash.com##a[rel="sponsored"]
 unsplash.com##div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .XGNy4.OhYua.xNKUO.dvBHu.oh0KJ, div[data-test=search-photos-route] .rJ2xz.bYpwS.U8eXG.M5vdR .kG7WW
@@ -423,6 +424,7 @@ www.photopea.com##body>.flexrow>div:last-child
 www.photopea.com###cap
 www.tokyvideo.com##.fan--related-videos
 www.twitch.tv##.side-bar-contents div[aria-label="Canales recomendados"]
+www.zona-leros.com##.content_store
 www3.animeflv.net##.CpCnC > a
 www3.animeflv.net##.Sidebar > a
 www3.cuevana.im##.backdrop a[rel="nofollow"]
