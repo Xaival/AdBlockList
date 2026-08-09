@@ -3,7 +3,7 @@
 ! Version: 000000000001
 ! Title: AdBlockList
 ! Expires: 1 days (update frequency)
-! Last modified: 08 Aug 2026 16:19 UTC
+! Last modified: 09 Aug 2026 16:22 UTC
 ! Homepage: https://github.com/Xaival/AdBlockList
 !
 ! Lista de filtros de Adblock Plus diseñada para luchar contra los anuncios, ventanas de cookies y mejoras esteticas
@@ -372,6 +372,7 @@ seriescube.pw##.fixed-sidebar-blank
 sharewareonsale.com###onesignal-slidedown-container
 stackoverflow.com##body > .js-consent-banner
 startpage.com###gcsa-top iframe
+startpage.com##div[data-identifier="protonvpn-promo-impression"]
 streamwish.to##div[style*="z-index: 2147483647"][style*="position: absolute"]
 tecnotutoshd.net###arlinablock
 telodoygratis.com##div[data-app="cookie_consent"]
